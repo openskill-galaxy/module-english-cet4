@@ -1,0 +1,41 @@
+{
+  "id": "mod-english-cet4",
+  "slug": "module-english-cet4",
+  "title": "英语四级备考",
+  "subtitle": "词汇、阅读、翻译、写作、听力文本训练与模拟考试",
+  "description": "面向准备大学英语四级考试的学生，提供词汇、语法、阅读理解、长篇阅读、翻译、写作、听力文本训练、模拟考试、错题复习和备考路线的静态学习模块。所有题目均为原创模拟练习（curated-generated），不使用官方真题原文。",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "英语四级",
+    "CET4",
+    "词汇",
+    "阅读",
+    "翻译",
+    "写作",
+    "模拟考试",
+    "备考"
+  ],
+  "estimatedHours": 120,
+  "difficulty": "easy",
+  "updatedAt": "2026-06-30T20:13:55.667Z",
+  "coverEmoji": "📚",
+  "repoUrl": "https://github.com/openskill-galaxy/module-english-cet4",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 185,
+    "knowledgePoints": 820,
+    "questions": 3500,
+    "cases": 240,
+    "exams": 105,
+    "routes": 31,
+    "glossary": 1240,
+    "faqs": 220,
+    "tags": 2101
+  }
+}
