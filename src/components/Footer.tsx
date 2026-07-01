@@ -25,7 +25,7 @@ export default function Footer({ module }: { module: ModuleMeta }) {
           </div>
         </div>
         <p className="mt-4 text-xs text-white/40">
-          © {new Date().getFullYear()} OpenSkill Galaxy · Module Template
+          © {new Date().getFullYear()} OpenSkill Galaxy · 英语四级备考
         </p>
       </div>
     </footer>

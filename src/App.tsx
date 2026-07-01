@@ -41,7 +41,7 @@ export default function App() {
 
   const basename = useMemo(() => {
     // 与 vite base 保持一致，用于 BrowserRouter
-    const fromEnv = import.meta.env.BASE_URL || "/module-template/";
+    const fromEnv = import.meta.env.BASE_URL || "/module-english-cet4/";
     return fromEnv.endsWith("/") ? fromEnv : fromEnv + "/";
   }, []);
 
