@@ -8378,5 +8378,685 @@
       "cet4-q-002700"
     ],
     "estimatedMinutes": 25
+  },
+  {
+    "id": "en-case-241",
+    "title": "听力案例241",
+    "description": "通过听力掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "听力"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-242",
+    "title": "词汇案例242",
+    "description": "通过词汇掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "词汇"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-243",
+    "title": "词汇案例243",
+    "description": "通过词汇掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "词汇"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-244",
+    "title": "阅读案例244",
+    "description": "通过阅读掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "阅读"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-245",
+    "title": "快速阅读案例245",
+    "description": "通过快速阅读掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "快速阅读"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-246",
+    "title": "词汇案例246",
+    "description": "通过词汇掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "词汇"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-247",
+    "title": "词汇案例247",
+    "description": "通过词汇掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "词汇"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-248",
+    "title": "写作案例248",
+    "description": "通过写作掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-249",
+    "title": "听力案例249",
+    "description": "通过听力掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "听力"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-250",
+    "title": "快速阅读案例250",
+    "description": "通过快速阅读掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "快速阅读"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-251",
+    "title": "翻译案例251",
+    "description": "通过翻译掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "翻译"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-252",
+    "title": "听力案例252",
+    "description": "通过听力掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "听力"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-253",
+    "title": "匹配案例253",
+    "description": "通过匹配掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "匹配"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-254",
+    "title": "听力案例254",
+    "description": "通过听力掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "听力"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-255",
+    "title": "阅读案例255",
+    "description": "通过阅读掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "阅读"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-256",
+    "title": "选词案例256",
+    "description": "通过选词掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "选词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-257",
+    "title": "写作案例257",
+    "description": "通过写作掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "写作"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-258",
+    "title": "选词案例258",
+    "description": "通过选词掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "选词"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-259",
+    "title": "词汇案例259",
+    "description": "通过词汇掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "词汇"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
+  },
+  {
+    "id": "en-case-260",
+    "title": "快速阅读案例260",
+    "description": "通过快速阅读掌握CET4",
+    "difficulty": "hard",
+    "duration": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "问题",
+        "description": "分析"
+      },
+      {
+        "order": 2,
+        "title": "方法",
+        "description": "训练"
+      },
+      {
+        "order": 3,
+        "title": "练习",
+        "description": "实践"
+      },
+      {
+        "order": 4,
+        "title": "检查",
+        "description": "验证"
+      }
+    ],
+    "relatedQuestionIds": [],
+    "tags": [
+      "快速阅读"
+    ],
+    "updatedAt": "2026-07-03T00:00:00.000Z"
   }
 ]
