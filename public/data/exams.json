@@ -4,7 +4,7 @@
     "slug": "cet4-course-01-词汇专项",
     "title": "四级考试认知与备考规划 词汇专项",
     "summary": "四级考试认知与备考规划 词汇专项。",
-    "description": "针对 四级考试认知与备考规划 的词汇专项，覆盖核心考点。",
+    "description": "四级考试认知与备考规划 词汇专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000001",
@@ -47,14 +47,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-002",
     "slug": "cet4-course-02-短语搭配专项",
     "title": "四级核心词汇基础 短语搭配专项",
     "summary": "四级核心词汇基础 短语搭配专项。",
-    "description": "针对 四级核心词汇基础 的短语搭配专项，覆盖核心考点。",
+    "description": "四级核心词汇基础 短语搭配专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000036",
@@ -97,14 +98,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-003",
     "slug": "cet4-course-03-语法专项",
     "title": "高频短语与固定搭配 语法专项",
     "summary": "高频短语与固定搭配 语法专项。",
-    "description": "针对 高频短语与固定搭配 的语法专项，覆盖核心考点。",
+    "description": "高频短语与固定搭配 语法专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000111",
@@ -147,14 +149,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-004",
     "slug": "cet4-course-04-长难句专项",
     "title": "基础语法与长难句 长难句专项",
     "summary": "基础语法与长难句 长难句专项。",
-    "description": "针对 基础语法与长难句 的长难句专项，覆盖核心考点。",
+    "description": "基础语法与长难句 长难句专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000172",
@@ -197,14 +200,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-005",
     "slug": "cet4-course-05-选词填空专项",
     "title": "选词填空专项训练 选词填空专项",
     "summary": "选词填空专项训练 选词填空专项。",
-    "description": "针对 选词填空专项训练 的选词填空专项，覆盖核心考点。",
+    "description": "选词填空专项训练 选词填空专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000221",
@@ -247,14 +251,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-006",
     "slug": "cet4-course-06-阅读理解专项",
     "title": "阅读理解专项训练 阅读理解专项",
     "summary": "阅读理解专项训练 阅读理解专项。",
-    "description": "针对 阅读理解专项训练 的阅读理解专项，覆盖核心考点。",
+    "description": "阅读理解专项训练 阅读理解专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000236",
@@ -297,14 +302,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-007",
     "slug": "cet4-course-07-长篇阅读专项",
     "title": "长篇阅读与信息匹配 长篇阅读专项",
     "summary": "长篇阅读与信息匹配 长篇阅读专项。",
-    "description": "针对 长篇阅读与信息匹配 的长篇阅读专项，覆盖核心考点。",
+    "description": "长篇阅读与信息匹配 长篇阅读专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000261",
@@ -347,14 +353,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-008",
     "slug": "cet4-course-08-翻译专项",
     "title": "听力文本理解训练 翻译专项",
     "summary": "听力文本理解训练 翻译专项。",
-    "description": "针对 听力文本理解训练 的翻译专项，覆盖核心考点。",
+    "description": "听力文本理解训练 翻译专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000271",
@@ -397,14 +404,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-009",
     "slug": "cet4-course-09-写作专项",
     "title": "翻译基础与常见主题 写作专项",
     "summary": "翻译基础与常见主题 写作专项。",
-    "description": "针对 翻译基础与常见主题 的写作专项，覆盖核心考点。",
+    "description": "翻译基础与常见主题 写作专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000288",
@@ -447,14 +455,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-010",
     "slug": "cet4-course-10-听力文本专项",
     "title": "写作基础与模板表达 听力文本专项",
     "summary": "写作基础与模板表达 听力文本专项。",
-    "description": "针对 写作基础与模板表达 的听力文本专项，覆盖核心考点。",
+    "description": "写作基础与模板表达 听力文本专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000302",
@@ -497,14 +506,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-011",
     "slug": "cet4-course-11-阶段测验",
     "title": "校园、社会、科技、文化主题训练 阶段测验",
     "summary": "校园、社会、科技、文化主题训练 阶段测验。",
-    "description": "针对 校园、社会、科技、文化主题训练 的阶段测验，覆盖核心考点。",
+    "description": "校园、社会、科技、文化主题训练 阶段测验。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000315",
@@ -547,14 +557,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-012",
     "slug": "cet4-course-12-四级模拟考试",
     "title": "模拟考试与时间管理 四级模拟考试",
     "summary": "模拟考试与时间管理 四级模拟考试。",
-    "description": "针对 模拟考试与时间管理 的四级模拟考试，覆盖核心考点。",
+    "description": "模拟考试与时间管理 四级模拟考试。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000333",
@@ -597,14 +608,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-013",
     "slug": "cet4-course-13-考前冲刺卷",
     "title": "错题复盘与薄弱项提升 考前冲刺卷",
     "summary": "错题复盘与薄弱项提升 考前冲刺卷。",
-    "description": "针对 错题复盘与薄弱项提升 的考前冲刺卷，覆盖核心考点。",
+    "description": "错题复盘与薄弱项提升 考前冲刺卷。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000343",
@@ -647,14 +659,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-014",
     "slug": "cet4-course-14-综合能力测试",
     "title": "四级考前冲刺路线 综合能力测试",
     "summary": "四级考前冲刺路线 综合能力测试。",
-    "description": "针对 四级考前冲刺路线 的综合能力测试，覆盖核心考点。",
+    "description": "四级考前冲刺路线 综合能力测试。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000364",
@@ -697,14 +710,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-015",
     "slug": "cet4-course-01-词汇专项",
     "title": "四级考试认知与备考规划 词汇专项",
     "summary": "四级考试认知与备考规划 词汇专项。",
-    "description": "针对 四级考试认知与备考规划 的词汇专项，覆盖核心考点。",
+    "description": "四级考试认知与备考规划 词汇专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000001",
@@ -747,14 +761,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-016",
     "slug": "cet4-course-02-短语搭配专项",
     "title": "四级核心词汇基础 短语搭配专项",
     "summary": "四级核心词汇基础 短语搭配专项。",
-    "description": "针对 四级核心词汇基础 的短语搭配专项，覆盖核心考点。",
+    "description": "四级核心词汇基础 短语搭配专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000036",
@@ -797,14 +812,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-017",
     "slug": "cet4-course-03-语法专项",
     "title": "高频短语与固定搭配 语法专项",
     "summary": "高频短语与固定搭配 语法专项。",
-    "description": "针对 高频短语与固定搭配 的语法专项，覆盖核心考点。",
+    "description": "高频短语与固定搭配 语法专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000111",
@@ -847,14 +863,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-018",
     "slug": "cet4-course-04-长难句专项",
     "title": "基础语法与长难句 长难句专项",
     "summary": "基础语法与长难句 长难句专项。",
-    "description": "针对 基础语法与长难句 的长难句专项，覆盖核心考点。",
+    "description": "基础语法与长难句 长难句专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000172",
@@ -897,14 +914,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-019",
     "slug": "cet4-course-05-选词填空专项",
     "title": "选词填空专项训练 选词填空专项",
     "summary": "选词填空专项训练 选词填空专项。",
-    "description": "针对 选词填空专项训练 的选词填空专项，覆盖核心考点。",
+    "description": "选词填空专项训练 选词填空专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000221",
@@ -947,14 +965,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-020",
     "slug": "cet4-course-06-阅读理解专项",
     "title": "阅读理解专项训练 阅读理解专项",
     "summary": "阅读理解专项训练 阅读理解专项。",
-    "description": "针对 阅读理解专项训练 的阅读理解专项，覆盖核心考点。",
+    "description": "阅读理解专项训练 阅读理解专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000236",
@@ -997,14 +1016,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-021",
     "slug": "cet4-course-07-长篇阅读专项",
     "title": "长篇阅读与信息匹配 长篇阅读专项",
     "summary": "长篇阅读与信息匹配 长篇阅读专项。",
-    "description": "针对 长篇阅读与信息匹配 的长篇阅读专项，覆盖核心考点。",
+    "description": "长篇阅读与信息匹配 长篇阅读专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000261",
@@ -1047,14 +1067,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-022",
     "slug": "cet4-course-08-翻译专项",
     "title": "听力文本理解训练 翻译专项",
     "summary": "听力文本理解训练 翻译专项。",
-    "description": "针对 听力文本理解训练 的翻译专项，覆盖核心考点。",
+    "description": "听力文本理解训练 翻译专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000271",
@@ -1097,14 +1118,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-023",
     "slug": "cet4-course-09-写作专项",
     "title": "翻译基础与常见主题 写作专项",
     "summary": "翻译基础与常见主题 写作专项。",
-    "description": "针对 翻译基础与常见主题 的写作专项，覆盖核心考点。",
+    "description": "翻译基础与常见主题 写作专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000288",
@@ -1147,14 +1169,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-024",
     "slug": "cet4-course-10-听力文本专项",
     "title": "写作基础与模板表达 听力文本专项",
     "summary": "写作基础与模板表达 听力文本专项。",
-    "description": "针对 写作基础与模板表达 的听力文本专项，覆盖核心考点。",
+    "description": "写作基础与模板表达 听力文本专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000302",
@@ -1197,14 +1220,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-025",
     "slug": "cet4-course-11-阶段测验",
     "title": "校园、社会、科技、文化主题训练 阶段测验",
     "summary": "校园、社会、科技、文化主题训练 阶段测验。",
-    "description": "针对 校园、社会、科技、文化主题训练 的阶段测验，覆盖核心考点。",
+    "description": "校园、社会、科技、文化主题训练 阶段测验。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000315",
@@ -1247,14 +1271,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-026",
     "slug": "cet4-course-12-四级模拟考试",
     "title": "模拟考试与时间管理 四级模拟考试",
     "summary": "模拟考试与时间管理 四级模拟考试。",
-    "description": "针对 模拟考试与时间管理 的四级模拟考试，覆盖核心考点。",
+    "description": "模拟考试与时间管理 四级模拟考试。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000333",
@@ -1297,14 +1322,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-027",
     "slug": "cet4-course-13-考前冲刺卷",
     "title": "错题复盘与薄弱项提升 考前冲刺卷",
     "summary": "错题复盘与薄弱项提升 考前冲刺卷。",
-    "description": "针对 错题复盘与薄弱项提升 的考前冲刺卷，覆盖核心考点。",
+    "description": "错题复盘与薄弱项提升 考前冲刺卷。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000343",
@@ -1347,14 +1373,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-028",
     "slug": "cet4-course-14-综合能力测试",
     "title": "四级考前冲刺路线 综合能力测试",
     "summary": "四级考前冲刺路线 综合能力测试。",
-    "description": "针对 四级考前冲刺路线 的综合能力测试，覆盖核心考点。",
+    "description": "四级考前冲刺路线 综合能力测试。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000364",
@@ -1397,14 +1424,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-029",
     "slug": "cet4-course-01-词汇专项",
     "title": "四级考试认知与备考规划 词汇专项",
     "summary": "四级考试认知与备考规划 词汇专项。",
-    "description": "针对 四级考试认知与备考规划 的词汇专项，覆盖核心考点。",
+    "description": "四级考试认知与备考规划 词汇专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000001",
@@ -1447,14 +1475,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-030",
     "slug": "cet4-course-02-短语搭配专项",
     "title": "四级核心词汇基础 短语搭配专项",
     "summary": "四级核心词汇基础 短语搭配专项。",
-    "description": "针对 四级核心词汇基础 的短语搭配专项，覆盖核心考点。",
+    "description": "四级核心词汇基础 短语搭配专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000036",
@@ -1497,14 +1526,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-031",
     "slug": "cet4-course-03-语法专项",
     "title": "高频短语与固定搭配 语法专项",
     "summary": "高频短语与固定搭配 语法专项。",
-    "description": "针对 高频短语与固定搭配 的语法专项，覆盖核心考点。",
+    "description": "高频短语与固定搭配 语法专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000111",
@@ -1547,14 +1577,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-032",
     "slug": "cet4-course-04-长难句专项",
     "title": "基础语法与长难句 长难句专项",
     "summary": "基础语法与长难句 长难句专项。",
-    "description": "针对 基础语法与长难句 的长难句专项，覆盖核心考点。",
+    "description": "基础语法与长难句 长难句专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000172",
@@ -1597,14 +1628,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-033",
     "slug": "cet4-course-05-选词填空专项",
     "title": "选词填空专项训练 选词填空专项",
     "summary": "选词填空专项训练 选词填空专项。",
-    "description": "针对 选词填空专项训练 的选词填空专项，覆盖核心考点。",
+    "description": "选词填空专项训练 选词填空专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000221",
@@ -1647,14 +1679,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-034",
     "slug": "cet4-course-06-阅读理解专项",
     "title": "阅读理解专项训练 阅读理解专项",
     "summary": "阅读理解专项训练 阅读理解专项。",
-    "description": "针对 阅读理解专项训练 的阅读理解专项，覆盖核心考点。",
+    "description": "阅读理解专项训练 阅读理解专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000236",
@@ -1697,14 +1730,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-035",
     "slug": "cet4-course-07-长篇阅读专项",
     "title": "长篇阅读与信息匹配 长篇阅读专项",
     "summary": "长篇阅读与信息匹配 长篇阅读专项。",
-    "description": "针对 长篇阅读与信息匹配 的长篇阅读专项，覆盖核心考点。",
+    "description": "长篇阅读与信息匹配 长篇阅读专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000261",
@@ -1747,14 +1781,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-036",
     "slug": "cet4-course-08-翻译专项",
     "title": "听力文本理解训练 翻译专项",
     "summary": "听力文本理解训练 翻译专项。",
-    "description": "针对 听力文本理解训练 的翻译专项，覆盖核心考点。",
+    "description": "听力文本理解训练 翻译专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000271",
@@ -1797,14 +1832,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-037",
     "slug": "cet4-course-09-写作专项",
     "title": "翻译基础与常见主题 写作专项",
     "summary": "翻译基础与常见主题 写作专项。",
-    "description": "针对 翻译基础与常见主题 的写作专项，覆盖核心考点。",
+    "description": "翻译基础与常见主题 写作专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000288",
@@ -1847,14 +1883,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-038",
     "slug": "cet4-course-10-听力文本专项",
     "title": "写作基础与模板表达 听力文本专项",
     "summary": "写作基础与模板表达 听力文本专项。",
-    "description": "针对 写作基础与模板表达 的听力文本专项，覆盖核心考点。",
+    "description": "写作基础与模板表达 听力文本专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000302",
@@ -1897,14 +1934,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-039",
     "slug": "cet4-course-11-阶段测验",
     "title": "校园、社会、科技、文化主题训练 阶段测验",
     "summary": "校园、社会、科技、文化主题训练 阶段测验。",
-    "description": "针对 校园、社会、科技、文化主题训练 的阶段测验，覆盖核心考点。",
+    "description": "校园、社会、科技、文化主题训练 阶段测验。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000315",
@@ -1947,14 +1985,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-040",
     "slug": "cet4-course-12-四级模拟考试",
     "title": "模拟考试与时间管理 四级模拟考试",
     "summary": "模拟考试与时间管理 四级模拟考试。",
-    "description": "针对 模拟考试与时间管理 的四级模拟考试，覆盖核心考点。",
+    "description": "模拟考试与时间管理 四级模拟考试。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000333",
@@ -1997,14 +2036,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-041",
     "slug": "cet4-course-13-考前冲刺卷",
     "title": "错题复盘与薄弱项提升 考前冲刺卷",
     "summary": "错题复盘与薄弱项提升 考前冲刺卷。",
-    "description": "针对 错题复盘与薄弱项提升 的考前冲刺卷，覆盖核心考点。",
+    "description": "错题复盘与薄弱项提升 考前冲刺卷。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000343",
@@ -2047,14 +2087,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-042",
     "slug": "cet4-course-14-综合能力测试",
     "title": "四级考前冲刺路线 综合能力测试",
     "summary": "四级考前冲刺路线 综合能力测试。",
-    "description": "针对 四级考前冲刺路线 的综合能力测试，覆盖核心考点。",
+    "description": "四级考前冲刺路线 综合能力测试。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000364",
@@ -2097,14 +2138,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-043",
     "slug": "cet4-course-01-词汇专项",
     "title": "四级考试认知与备考规划 词汇专项",
     "summary": "四级考试认知与备考规划 词汇专项。",
-    "description": "针对 四级考试认知与备考规划 的词汇专项，覆盖核心考点。",
+    "description": "四级考试认知与备考规划 词汇专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000001",
@@ -2147,14 +2189,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-044",
     "slug": "cet4-course-02-短语搭配专项",
     "title": "四级核心词汇基础 短语搭配专项",
     "summary": "四级核心词汇基础 短语搭配专项。",
-    "description": "针对 四级核心词汇基础 的短语搭配专项，覆盖核心考点。",
+    "description": "四级核心词汇基础 短语搭配专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000036",
@@ -2197,14 +2240,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-045",
     "slug": "cet4-course-03-语法专项",
     "title": "高频短语与固定搭配 语法专项",
     "summary": "高频短语与固定搭配 语法专项。",
-    "description": "针对 高频短语与固定搭配 的语法专项，覆盖核心考点。",
+    "description": "高频短语与固定搭配 语法专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000111",
@@ -2247,14 +2291,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-046",
     "slug": "cet4-course-04-长难句专项",
     "title": "基础语法与长难句 长难句专项",
     "summary": "基础语法与长难句 长难句专项。",
-    "description": "针对 基础语法与长难句 的长难句专项，覆盖核心考点。",
+    "description": "基础语法与长难句 长难句专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000172",
@@ -2297,14 +2342,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-047",
     "slug": "cet4-course-05-选词填空专项",
     "title": "选词填空专项训练 选词填空专项",
     "summary": "选词填空专项训练 选词填空专项。",
-    "description": "针对 选词填空专项训练 的选词填空专项，覆盖核心考点。",
+    "description": "选词填空专项训练 选词填空专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000221",
@@ -2347,14 +2393,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-048",
     "slug": "cet4-course-06-阅读理解专项",
     "title": "阅读理解专项训练 阅读理解专项",
     "summary": "阅读理解专项训练 阅读理解专项。",
-    "description": "针对 阅读理解专项训练 的阅读理解专项，覆盖核心考点。",
+    "description": "阅读理解专项训练 阅读理解专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000236",
@@ -2397,14 +2444,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-049",
     "slug": "cet4-course-07-长篇阅读专项",
     "title": "长篇阅读与信息匹配 长篇阅读专项",
     "summary": "长篇阅读与信息匹配 长篇阅读专项。",
-    "description": "针对 长篇阅读与信息匹配 的长篇阅读专项，覆盖核心考点。",
+    "description": "长篇阅读与信息匹配 长篇阅读专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000261",
@@ -2447,14 +2495,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-050",
     "slug": "cet4-course-08-翻译专项",
     "title": "听力文本理解训练 翻译专项",
     "summary": "听力文本理解训练 翻译专项。",
-    "description": "针对 听力文本理解训练 的翻译专项，覆盖核心考点。",
+    "description": "听力文本理解训练 翻译专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000271",
@@ -2497,14 +2546,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-051",
     "slug": "cet4-course-09-写作专项",
     "title": "翻译基础与常见主题 写作专项",
     "summary": "翻译基础与常见主题 写作专项。",
-    "description": "针对 翻译基础与常见主题 的写作专项，覆盖核心考点。",
+    "description": "翻译基础与常见主题 写作专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000288",
@@ -2547,14 +2597,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-052",
     "slug": "cet4-course-10-听力文本专项",
     "title": "写作基础与模板表达 听力文本专项",
     "summary": "写作基础与模板表达 听力文本专项。",
-    "description": "针对 写作基础与模板表达 的听力文本专项，覆盖核心考点。",
+    "description": "写作基础与模板表达 听力文本专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000302",
@@ -2597,14 +2648,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-053",
     "slug": "cet4-course-11-阶段测验",
     "title": "校园、社会、科技、文化主题训练 阶段测验",
     "summary": "校园、社会、科技、文化主题训练 阶段测验。",
-    "description": "针对 校园、社会、科技、文化主题训练 的阶段测验，覆盖核心考点。",
+    "description": "校园、社会、科技、文化主题训练 阶段测验。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000315",
@@ -2647,14 +2699,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-054",
     "slug": "cet4-course-12-四级模拟考试",
     "title": "模拟考试与时间管理 四级模拟考试",
     "summary": "模拟考试与时间管理 四级模拟考试。",
-    "description": "针对 模拟考试与时间管理 的四级模拟考试，覆盖核心考点。",
+    "description": "模拟考试与时间管理 四级模拟考试。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000333",
@@ -2697,14 +2750,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-055",
     "slug": "cet4-course-13-考前冲刺卷",
     "title": "错题复盘与薄弱项提升 考前冲刺卷",
     "summary": "错题复盘与薄弱项提升 考前冲刺卷。",
-    "description": "针对 错题复盘与薄弱项提升 的考前冲刺卷，覆盖核心考点。",
+    "description": "错题复盘与薄弱项提升 考前冲刺卷。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000343",
@@ -2747,14 +2801,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-056",
     "slug": "cet4-course-14-综合能力测试",
     "title": "四级考前冲刺路线 综合能力测试",
     "summary": "四级考前冲刺路线 综合能力测试。",
-    "description": "针对 四级考前冲刺路线 的综合能力测试，覆盖核心考点。",
+    "description": "四级考前冲刺路线 综合能力测试。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000364",
@@ -2797,14 +2852,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-057",
     "slug": "cet4-course-01-词汇专项",
     "title": "四级考试认知与备考规划 词汇专项",
     "summary": "四级考试认知与备考规划 词汇专项。",
-    "description": "针对 四级考试认知与备考规划 的词汇专项，覆盖核心考点。",
+    "description": "四级考试认知与备考规划 词汇专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000001",
@@ -2847,14 +2903,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-058",
     "slug": "cet4-course-02-短语搭配专项",
     "title": "四级核心词汇基础 短语搭配专项",
     "summary": "四级核心词汇基础 短语搭配专项。",
-    "description": "针对 四级核心词汇基础 的短语搭配专项，覆盖核心考点。",
+    "description": "四级核心词汇基础 短语搭配专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000036",
@@ -2897,14 +2954,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-059",
     "slug": "cet4-course-03-语法专项",
     "title": "高频短语与固定搭配 语法专项",
     "summary": "高频短语与固定搭配 语法专项。",
-    "description": "针对 高频短语与固定搭配 的语法专项，覆盖核心考点。",
+    "description": "高频短语与固定搭配 语法专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000111",
@@ -2947,14 +3005,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-060",
     "slug": "cet4-course-04-长难句专项",
     "title": "基础语法与长难句 长难句专项",
     "summary": "基础语法与长难句 长难句专项。",
-    "description": "针对 基础语法与长难句 的长难句专项，覆盖核心考点。",
+    "description": "基础语法与长难句 长难句专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000172",
@@ -2997,14 +3056,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-061",
     "slug": "cet4-course-05-选词填空专项",
     "title": "选词填空专项训练 选词填空专项",
     "summary": "选词填空专项训练 选词填空专项。",
-    "description": "针对 选词填空专项训练 的选词填空专项，覆盖核心考点。",
+    "description": "选词填空专项训练 选词填空专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000221",
@@ -3047,14 +3107,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-062",
     "slug": "cet4-course-06-阅读理解专项",
     "title": "阅读理解专项训练 阅读理解专项",
     "summary": "阅读理解专项训练 阅读理解专项。",
-    "description": "针对 阅读理解专项训练 的阅读理解专项，覆盖核心考点。",
+    "description": "阅读理解专项训练 阅读理解专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000236",
@@ -3097,14 +3158,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-063",
     "slug": "cet4-course-07-长篇阅读专项",
     "title": "长篇阅读与信息匹配 长篇阅读专项",
     "summary": "长篇阅读与信息匹配 长篇阅读专项。",
-    "description": "针对 长篇阅读与信息匹配 的长篇阅读专项，覆盖核心考点。",
+    "description": "长篇阅读与信息匹配 长篇阅读专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000261",
@@ -3147,14 +3209,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-064",
     "slug": "cet4-course-08-翻译专项",
     "title": "听力文本理解训练 翻译专项",
     "summary": "听力文本理解训练 翻译专项。",
-    "description": "针对 听力文本理解训练 的翻译专项，覆盖核心考点。",
+    "description": "听力文本理解训练 翻译专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000271",
@@ -3197,14 +3260,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-065",
     "slug": "cet4-course-09-写作专项",
     "title": "翻译基础与常见主题 写作专项",
     "summary": "翻译基础与常见主题 写作专项。",
-    "description": "针对 翻译基础与常见主题 的写作专项，覆盖核心考点。",
+    "description": "翻译基础与常见主题 写作专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000288",
@@ -3247,14 +3311,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-066",
     "slug": "cet4-course-10-听力文本专项",
     "title": "写作基础与模板表达 听力文本专项",
     "summary": "写作基础与模板表达 听力文本专项。",
-    "description": "针对 写作基础与模板表达 的听力文本专项，覆盖核心考点。",
+    "description": "写作基础与模板表达 听力文本专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000302",
@@ -3297,14 +3362,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-067",
     "slug": "cet4-course-11-阶段测验",
     "title": "校园、社会、科技、文化主题训练 阶段测验",
     "summary": "校园、社会、科技、文化主题训练 阶段测验。",
-    "description": "针对 校园、社会、科技、文化主题训练 的阶段测验，覆盖核心考点。",
+    "description": "校园、社会、科技、文化主题训练 阶段测验。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000315",
@@ -3347,14 +3413,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-068",
     "slug": "cet4-course-12-四级模拟考试",
     "title": "模拟考试与时间管理 四级模拟考试",
     "summary": "模拟考试与时间管理 四级模拟考试。",
-    "description": "针对 模拟考试与时间管理 的四级模拟考试，覆盖核心考点。",
+    "description": "模拟考试与时间管理 四级模拟考试。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000333",
@@ -3397,14 +3464,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-069",
     "slug": "cet4-course-13-考前冲刺卷",
     "title": "错题复盘与薄弱项提升 考前冲刺卷",
     "summary": "错题复盘与薄弱项提升 考前冲刺卷。",
-    "description": "针对 错题复盘与薄弱项提升 的考前冲刺卷，覆盖核心考点。",
+    "description": "错题复盘与薄弱项提升 考前冲刺卷。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000343",
@@ -3447,14 +3515,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-070",
     "slug": "cet4-course-14-综合能力测试",
     "title": "四级考前冲刺路线 综合能力测试",
     "summary": "四级考前冲刺路线 综合能力测试。",
-    "description": "针对 四级考前冲刺路线 的综合能力测试，覆盖核心考点。",
+    "description": "四级考前冲刺路线 综合能力测试。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000364",
@@ -3497,14 +3566,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-071",
     "slug": "cet4-course-01-词汇专项",
     "title": "四级考试认知与备考规划 词汇专项",
     "summary": "四级考试认知与备考规划 词汇专项。",
-    "description": "针对 四级考试认知与备考规划 的词汇专项，覆盖核心考点。",
+    "description": "四级考试认知与备考规划 词汇专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000001",
@@ -3547,14 +3617,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-072",
     "slug": "cet4-course-02-短语搭配专项",
     "title": "四级核心词汇基础 短语搭配专项",
     "summary": "四级核心词汇基础 短语搭配专项。",
-    "description": "针对 四级核心词汇基础 的短语搭配专项，覆盖核心考点。",
+    "description": "四级核心词汇基础 短语搭配专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000036",
@@ -3597,14 +3668,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-073",
     "slug": "cet4-course-03-语法专项",
     "title": "高频短语与固定搭配 语法专项",
     "summary": "高频短语与固定搭配 语法专项。",
-    "description": "针对 高频短语与固定搭配 的语法专项，覆盖核心考点。",
+    "description": "高频短语与固定搭配 语法专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000111",
@@ -3647,14 +3719,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-074",
     "slug": "cet4-course-04-长难句专项",
     "title": "基础语法与长难句 长难句专项",
     "summary": "基础语法与长难句 长难句专项。",
-    "description": "针对 基础语法与长难句 的长难句专项，覆盖核心考点。",
+    "description": "基础语法与长难句 长难句专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000172",
@@ -3697,14 +3770,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-075",
     "slug": "cet4-course-05-选词填空专项",
     "title": "选词填空专项训练 选词填空专项",
     "summary": "选词填空专项训练 选词填空专项。",
-    "description": "针对 选词填空专项训练 的选词填空专项，覆盖核心考点。",
+    "description": "选词填空专项训练 选词填空专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000221",
@@ -3747,14 +3821,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-076",
     "slug": "cet4-course-06-阅读理解专项",
     "title": "阅读理解专项训练 阅读理解专项",
     "summary": "阅读理解专项训练 阅读理解专项。",
-    "description": "针对 阅读理解专项训练 的阅读理解专项，覆盖核心考点。",
+    "description": "阅读理解专项训练 阅读理解专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000236",
@@ -3797,14 +3872,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-077",
     "slug": "cet4-course-07-长篇阅读专项",
     "title": "长篇阅读与信息匹配 长篇阅读专项",
     "summary": "长篇阅读与信息匹配 长篇阅读专项。",
-    "description": "针对 长篇阅读与信息匹配 的长篇阅读专项，覆盖核心考点。",
+    "description": "长篇阅读与信息匹配 长篇阅读专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000261",
@@ -3847,14 +3923,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-078",
     "slug": "cet4-course-08-翻译专项",
     "title": "听力文本理解训练 翻译专项",
     "summary": "听力文本理解训练 翻译专项。",
-    "description": "针对 听力文本理解训练 的翻译专项，覆盖核心考点。",
+    "description": "听力文本理解训练 翻译专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000271",
@@ -3897,14 +3974,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-079",
     "slug": "cet4-course-09-写作专项",
     "title": "翻译基础与常见主题 写作专项",
     "summary": "翻译基础与常见主题 写作专项。",
-    "description": "针对 翻译基础与常见主题 的写作专项，覆盖核心考点。",
+    "description": "翻译基础与常见主题 写作专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000288",
@@ -3947,14 +4025,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-080",
     "slug": "cet4-course-10-听力文本专项",
     "title": "写作基础与模板表达 听力文本专项",
     "summary": "写作基础与模板表达 听力文本专项。",
-    "description": "针对 写作基础与模板表达 的听力文本专项，覆盖核心考点。",
+    "description": "写作基础与模板表达 听力文本专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000302",
@@ -3997,14 +4076,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-081",
     "slug": "cet4-course-11-阶段测验",
     "title": "校园、社会、科技、文化主题训练 阶段测验",
     "summary": "校园、社会、科技、文化主题训练 阶段测验。",
-    "description": "针对 校园、社会、科技、文化主题训练 的阶段测验，覆盖核心考点。",
+    "description": "校园、社会、科技、文化主题训练 阶段测验。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000315",
@@ -4047,14 +4127,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-082",
     "slug": "cet4-course-12-四级模拟考试",
     "title": "模拟考试与时间管理 四级模拟考试",
     "summary": "模拟考试与时间管理 四级模拟考试。",
-    "description": "针对 模拟考试与时间管理 的四级模拟考试，覆盖核心考点。",
+    "description": "模拟考试与时间管理 四级模拟考试。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000333",
@@ -4097,14 +4178,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-083",
     "slug": "cet4-course-13-考前冲刺卷",
     "title": "错题复盘与薄弱项提升 考前冲刺卷",
     "summary": "错题复盘与薄弱项提升 考前冲刺卷。",
-    "description": "针对 错题复盘与薄弱项提升 的考前冲刺卷，覆盖核心考点。",
+    "description": "错题复盘与薄弱项提升 考前冲刺卷。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000343",
@@ -4147,14 +4229,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-084",
     "slug": "cet4-course-14-综合能力测试",
     "title": "四级考前冲刺路线 综合能力测试",
     "summary": "四级考前冲刺路线 综合能力测试。",
-    "description": "针对 四级考前冲刺路线 的综合能力测试，覆盖核心考点。",
+    "description": "四级考前冲刺路线 综合能力测试。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000364",
@@ -4197,14 +4280,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-085",
     "slug": "cet4-course-01-词汇专项",
     "title": "四级考试认知与备考规划 词汇专项",
     "summary": "四级考试认知与备考规划 词汇专项。",
-    "description": "针对 四级考试认知与备考规划 的词汇专项，覆盖核心考点。",
+    "description": "四级考试认知与备考规划 词汇专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000001",
@@ -4247,14 +4331,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-086",
     "slug": "cet4-course-02-短语搭配专项",
     "title": "四级核心词汇基础 短语搭配专项",
     "summary": "四级核心词汇基础 短语搭配专项。",
-    "description": "针对 四级核心词汇基础 的短语搭配专项，覆盖核心考点。",
+    "description": "四级核心词汇基础 短语搭配专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000036",
@@ -4297,14 +4382,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-087",
     "slug": "cet4-course-03-语法专项",
     "title": "高频短语与固定搭配 语法专项",
     "summary": "高频短语与固定搭配 语法专项。",
-    "description": "针对 高频短语与固定搭配 的语法专项，覆盖核心考点。",
+    "description": "高频短语与固定搭配 语法专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000111",
@@ -4347,14 +4433,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-088",
     "slug": "cet4-course-04-长难句专项",
     "title": "基础语法与长难句 长难句专项",
     "summary": "基础语法与长难句 长难句专项。",
-    "description": "针对 基础语法与长难句 的长难句专项，覆盖核心考点。",
+    "description": "基础语法与长难句 长难句专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000172",
@@ -4397,14 +4484,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-089",
     "slug": "cet4-course-05-选词填空专项",
     "title": "选词填空专项训练 选词填空专项",
     "summary": "选词填空专项训练 选词填空专项。",
-    "description": "针对 选词填空专项训练 的选词填空专项，覆盖核心考点。",
+    "description": "选词填空专项训练 选词填空专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000221",
@@ -4447,14 +4535,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-090",
     "slug": "cet4-course-06-阅读理解专项",
     "title": "阅读理解专项训练 阅读理解专项",
     "summary": "阅读理解专项训练 阅读理解专项。",
-    "description": "针对 阅读理解专项训练 的阅读理解专项，覆盖核心考点。",
+    "description": "阅读理解专项训练 阅读理解专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000236",
@@ -4497,14 +4586,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-091",
     "slug": "cet4-course-07-长篇阅读专项",
     "title": "长篇阅读与信息匹配 长篇阅读专项",
     "summary": "长篇阅读与信息匹配 长篇阅读专项。",
-    "description": "针对 长篇阅读与信息匹配 的长篇阅读专项，覆盖核心考点。",
+    "description": "长篇阅读与信息匹配 长篇阅读专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000261",
@@ -4547,14 +4637,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-092",
     "slug": "cet4-course-08-翻译专项",
     "title": "听力文本理解训练 翻译专项",
     "summary": "听力文本理解训练 翻译专项。",
-    "description": "针对 听力文本理解训练 的翻译专项，覆盖核心考点。",
+    "description": "听力文本理解训练 翻译专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000271",
@@ -4597,14 +4688,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-093",
     "slug": "cet4-course-09-写作专项",
     "title": "翻译基础与常见主题 写作专项",
     "summary": "翻译基础与常见主题 写作专项。",
-    "description": "针对 翻译基础与常见主题 的写作专项，覆盖核心考点。",
+    "description": "翻译基础与常见主题 写作专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000288",
@@ -4647,14 +4739,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-094",
     "slug": "cet4-course-10-听力文本专项",
     "title": "写作基础与模板表达 听力文本专项",
     "summary": "写作基础与模板表达 听力文本专项。",
-    "description": "针对 写作基础与模板表达 的听力文本专项，覆盖核心考点。",
+    "description": "写作基础与模板表达 听力文本专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000302",
@@ -4697,14 +4790,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-095",
     "slug": "cet4-course-11-阶段测验",
     "title": "校园、社会、科技、文化主题训练 阶段测验",
     "summary": "校园、社会、科技、文化主题训练 阶段测验。",
-    "description": "针对 校园、社会、科技、文化主题训练 的阶段测验，覆盖核心考点。",
+    "description": "校园、社会、科技、文化主题训练 阶段测验。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000315",
@@ -4747,14 +4841,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-096",
     "slug": "cet4-course-12-四级模拟考试",
     "title": "模拟考试与时间管理 四级模拟考试",
     "summary": "模拟考试与时间管理 四级模拟考试。",
-    "description": "针对 模拟考试与时间管理 的四级模拟考试，覆盖核心考点。",
+    "description": "模拟考试与时间管理 四级模拟考试。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000333",
@@ -4797,14 +4892,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-097",
     "slug": "cet4-course-13-考前冲刺卷",
     "title": "错题复盘与薄弱项提升 考前冲刺卷",
     "summary": "错题复盘与薄弱项提升 考前冲刺卷。",
-    "description": "针对 错题复盘与薄弱项提升 的考前冲刺卷，覆盖核心考点。",
+    "description": "错题复盘与薄弱项提升 考前冲刺卷。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000343",
@@ -4847,14 +4943,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-098",
     "slug": "cet4-course-14-综合能力测试",
     "title": "四级考前冲刺路线 综合能力测试",
     "summary": "四级考前冲刺路线 综合能力测试。",
-    "description": "针对 四级考前冲刺路线 的综合能力测试，覆盖核心考点。",
+    "description": "四级考前冲刺路线 综合能力测试。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000364",
@@ -4897,14 +4994,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-099",
     "slug": "cet4-course-01-词汇专项",
     "title": "四级考试认知与备考规划 词汇专项",
     "summary": "四级考试认知与备考规划 词汇专项。",
-    "description": "针对 四级考试认知与备考规划 的词汇专项，覆盖核心考点。",
+    "description": "四级考试认知与备考规划 词汇专项。",
     "difficulty": "hard",
     "questionIds": [
       "cet4-q-000001",
@@ -4947,14 +5045,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-100",
     "slug": "cet4-course-02-短语搭配专项",
     "title": "四级核心词汇基础 短语搭配专项",
     "summary": "四级核心词汇基础 短语搭配专项。",
-    "description": "针对 四级核心词汇基础 的短语搭配专项，覆盖核心考点。",
+    "description": "四级核心词汇基础 短语搭配专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000036",
@@ -4997,14 +5096,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-101",
     "slug": "cet4-course-03-语法专项",
     "title": "高频短语与固定搭配 语法专项",
     "summary": "高频短语与固定搭配 语法专项。",
-    "description": "针对 高频短语与固定搭配 的语法专项，覆盖核心考点。",
+    "description": "高频短语与固定搭配 语法专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000111",
@@ -5047,14 +5147,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   },
   {
     "id": "cet4-exam-102",
     "slug": "cet4-course-04-长难句专项",
     "title": "基础语法与长难句 长难句专项",
     "summary": "基础语法与长难句 长难句专项。",
-    "description": "针对 基础语法与长难句 的长难句专项，覆盖核心考点。",
+    "description": "基础语法与长难句 长难句专项。",
     "difficulty": "easy",
     "questionIds": [
       "cet4-q-000172",
@@ -5097,14 +5198,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 75
   },
   {
     "id": "cet4-exam-103",
     "slug": "cet4-course-05-选词填空专项",
     "title": "选词填空专项训练 选词填空专项",
     "summary": "选词填空专项训练 选词填空专项。",
-    "description": "针对 选词填空专项训练 的选词填空专项，覆盖核心考点。",
+    "description": "选词填空专项训练 选词填空专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000221",
@@ -5147,14 +5249,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 90
   },
   {
     "id": "cet4-exam-104",
     "slug": "cet4-course-06-阅读理解专项",
     "title": "阅读理解专项训练 阅读理解专项",
     "summary": "阅读理解专项训练 阅读理解专项。",
-    "description": "针对 阅读理解专项训练 的阅读理解专项，覆盖核心考点。",
+    "description": "阅读理解专项训练 阅读理解专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000236",
@@ -5197,14 +5300,15 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 105
   },
   {
     "id": "cet4-exam-105",
     "slug": "cet4-course-07-长篇阅读专项",
     "title": "长篇阅读与信息匹配 长篇阅读专项",
     "summary": "长篇阅读与信息匹配 长篇阅读专项。",
-    "description": "针对 长篇阅读与信息匹配 的长篇阅读专项，覆盖核心考点。",
+    "description": "长篇阅读与信息匹配 长篇阅读专项。",
     "difficulty": "medium",
     "questionIds": [
       "cet4-q-000261",
@@ -5247,6 +5351,7 @@
       "限时",
       "独立完成",
       "可使用草稿"
-    ]
+    ],
+    "timeLimit": 60
   }
 ]

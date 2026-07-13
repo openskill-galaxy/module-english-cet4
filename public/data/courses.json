@@ -41,6 +41,22 @@
     "outcomes": [
       "能制定个人四级备考计划",
       "能合理分配各题型时间"
+    ],
+    "lessonIds": [
+      "cet4-lesson-001",
+      "cet4-lesson-002",
+      "cet4-lesson-003",
+      "cet4-lesson-004",
+      "cet4-lesson-005",
+      "cet4-lesson-006",
+      "cet4-lesson-007",
+      "cet4-lesson-008",
+      "cet4-lesson-009",
+      "cet4-lesson-010",
+      "cet4-lesson-011",
+      "cet4-lesson-012",
+      "cet4-lesson-013",
+      "cet4-lesson-183"
     ]
   },
   {
@@ -87,6 +103,24 @@
     "outcomes": [
       "能识别 2000+ 四级核心词",
       "能运用词根词缀推测词义"
+    ],
+    "lessonIds": [
+      "cet4-lesson-014",
+      "cet4-lesson-015",
+      "cet4-lesson-016",
+      "cet4-lesson-017",
+      "cet4-lesson-018",
+      "cet4-lesson-019",
+      "cet4-lesson-020",
+      "cet4-lesson-021",
+      "cet4-lesson-022",
+      "cet4-lesson-023",
+      "cet4-lesson-024",
+      "cet4-lesson-025",
+      "cet4-lesson-026",
+      "cet4-lesson-027",
+      "cet4-lesson-028",
+      "cet4-lesson-184"
     ]
   },
   {
@@ -131,6 +165,22 @@
     "outcomes": [
       "能正确使用 500+ 短语",
       "能避免常见搭配错误"
+    ],
+    "lessonIds": [
+      "cet4-lesson-029",
+      "cet4-lesson-030",
+      "cet4-lesson-031",
+      "cet4-lesson-032",
+      "cet4-lesson-033",
+      "cet4-lesson-034",
+      "cet4-lesson-035",
+      "cet4-lesson-036",
+      "cet4-lesson-037",
+      "cet4-lesson-038",
+      "cet4-lesson-039",
+      "cet4-lesson-040",
+      "cet4-lesson-041",
+      "cet4-lesson-185"
     ]
   },
   {
@@ -175,6 +225,22 @@
     "outcomes": [
       "能分析长难句结构",
       "能在写作中正确使用复合句"
+    ],
+    "lessonIds": [
+      "cet4-lesson-042",
+      "cet4-lesson-043",
+      "cet4-lesson-044",
+      "cet4-lesson-045",
+      "cet4-lesson-046",
+      "cet4-lesson-047",
+      "cet4-lesson-048",
+      "cet4-lesson-049",
+      "cet4-lesson-050",
+      "cet4-lesson-051",
+      "cet4-lesson-052",
+      "cet4-lesson-053",
+      "cet4-lesson-054",
+      "cet4-lesson-055"
     ]
   },
   {
@@ -218,6 +284,20 @@
     "outcomes": [
       "能在 8 分钟内完成选词填空",
       "准确率达 60%+"
+    ],
+    "lessonIds": [
+      "cet4-lesson-056",
+      "cet4-lesson-057",
+      "cet4-lesson-058",
+      "cet4-lesson-059",
+      "cet4-lesson-060",
+      "cet4-lesson-061",
+      "cet4-lesson-062",
+      "cet4-lesson-063",
+      "cet4-lesson-064",
+      "cet4-lesson-065",
+      "cet4-lesson-066",
+      "cet4-lesson-173"
     ]
   },
   {
@@ -264,6 +344,24 @@
     "outcomes": [
       "能在 15 分钟内完成 2 篇阅读",
       "准确率达 70%+"
+    ],
+    "lessonIds": [
+      "cet4-lesson-067",
+      "cet4-lesson-068",
+      "cet4-lesson-069",
+      "cet4-lesson-070",
+      "cet4-lesson-071",
+      "cet4-lesson-072",
+      "cet4-lesson-073",
+      "cet4-lesson-074",
+      "cet4-lesson-075",
+      "cet4-lesson-076",
+      "cet4-lesson-077",
+      "cet4-lesson-078",
+      "cet4-lesson-079",
+      "cet4-lesson-080",
+      "cet4-lesson-081",
+      "cet4-lesson-174"
     ]
   },
   {
@@ -305,6 +403,19 @@
     "outcomes": [
       "能在 15 分钟内完成 10 题匹配",
       "准确率达 70%+"
+    ],
+    "lessonIds": [
+      "cet4-lesson-082",
+      "cet4-lesson-083",
+      "cet4-lesson-084",
+      "cet4-lesson-085",
+      "cet4-lesson-086",
+      "cet4-lesson-087",
+      "cet4-lesson-088",
+      "cet4-lesson-089",
+      "cet4-lesson-090",
+      "cet4-lesson-091",
+      "cet4-lesson-175"
     ]
   },
   {
@@ -349,6 +460,22 @@
     "outcomes": [
       "能预测听力考点",
       "能根据文本分析题目"
+    ],
+    "lessonIds": [
+      "cet4-lesson-092",
+      "cet4-lesson-093",
+      "cet4-lesson-094",
+      "cet4-lesson-095",
+      "cet4-lesson-096",
+      "cet4-lesson-097",
+      "cet4-lesson-098",
+      "cet4-lesson-099",
+      "cet4-lesson-100",
+      "cet4-lesson-101",
+      "cet4-lesson-102",
+      "cet4-lesson-103",
+      "cet4-lesson-104",
+      "cet4-lesson-176"
     ]
   },
   {
@@ -394,6 +521,22 @@
     "outcomes": [
       "能完成 100 词中译英",
       "能避免常见翻译错误"
+    ],
+    "lessonIds": [
+      "cet4-lesson-105",
+      "cet4-lesson-106",
+      "cet4-lesson-107",
+      "cet4-lesson-108",
+      "cet4-lesson-109",
+      "cet4-lesson-110",
+      "cet4-lesson-111",
+      "cet4-lesson-112",
+      "cet4-lesson-113",
+      "cet4-lesson-114",
+      "cet4-lesson-115",
+      "cet4-lesson-116",
+      "cet4-lesson-117",
+      "cet4-lesson-177"
     ]
   },
   {
@@ -438,6 +581,22 @@
     "outcomes": [
       "能在 30 分钟内完成 120 词作文",
       "结构清晰语法正确"
+    ],
+    "lessonIds": [
+      "cet4-lesson-118",
+      "cet4-lesson-119",
+      "cet4-lesson-120",
+      "cet4-lesson-121",
+      "cet4-lesson-122",
+      "cet4-lesson-123",
+      "cet4-lesson-124",
+      "cet4-lesson-125",
+      "cet4-lesson-126",
+      "cet4-lesson-127",
+      "cet4-lesson-128",
+      "cet4-lesson-129",
+      "cet4-lesson-130",
+      "cet4-lesson-178"
     ]
   },
   {
@@ -481,6 +640,21 @@
     ],
     "outcomes": [
       "能就常见主题写出连贯段落"
+    ],
+    "lessonIds": [
+      "cet4-lesson-131",
+      "cet4-lesson-132",
+      "cet4-lesson-133",
+      "cet4-lesson-134",
+      "cet4-lesson-135",
+      "cet4-lesson-136",
+      "cet4-lesson-137",
+      "cet4-lesson-138",
+      "cet4-lesson-139",
+      "cet4-lesson-140",
+      "cet4-lesson-141",
+      "cet4-lesson-142",
+      "cet4-lesson-179"
     ]
   },
   {
@@ -521,6 +695,18 @@
     "outcomes": [
       "能在 130 分钟内完成全卷",
       "时间分配合理"
+    ],
+    "lessonIds": [
+      "cet4-lesson-143",
+      "cet4-lesson-144",
+      "cet4-lesson-145",
+      "cet4-lesson-146",
+      "cet4-lesson-147",
+      "cet4-lesson-148",
+      "cet4-lesson-149",
+      "cet4-lesson-150",
+      "cet4-lesson-151",
+      "cet4-lesson-180"
     ]
   },
   {
@@ -564,6 +750,21 @@
     "outcomes": [
       "能独立复盘错题",
       "能制定薄弱项提升计划"
+    ],
+    "lessonIds": [
+      "cet4-lesson-152",
+      "cet4-lesson-153",
+      "cet4-lesson-154",
+      "cet4-lesson-155",
+      "cet4-lesson-156",
+      "cet4-lesson-157",
+      "cet4-lesson-158",
+      "cet4-lesson-159",
+      "cet4-lesson-160",
+      "cet4-lesson-161",
+      "cet4-lesson-162",
+      "cet4-lesson-163",
+      "cet4-lesson-181"
     ]
   },
   {
@@ -604,6 +805,18 @@
     "outcomes": [
       "能执行考前冲刺计划",
       "保持良好应考状态"
+    ],
+    "lessonIds": [
+      "cet4-lesson-164",
+      "cet4-lesson-165",
+      "cet4-lesson-166",
+      "cet4-lesson-167",
+      "cet4-lesson-168",
+      "cet4-lesson-169",
+      "cet4-lesson-170",
+      "cet4-lesson-171",
+      "cet4-lesson-172",
+      "cet4-lesson-182"
     ]
   }
 ]

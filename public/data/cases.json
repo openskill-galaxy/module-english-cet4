@@ -32,7 +32,12 @@
       "cet4-q-002461",
       "cet4-q-003281"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级考试定义 的 高频词汇记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0001"
+    ]
   },
   {
     "id": "cet4-case-002",
@@ -67,7 +72,12 @@
       "cet4-q-002462",
       "cet4-q-003282"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级考试结构 的 词义辨析 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0002"
+    ]
   },
   {
     "id": "cet4-case-003",
@@ -102,7 +112,12 @@
       "cet4-q-002463",
       "cet4-q-003283"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级考试时长 的 长难句拆解 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0003"
+    ]
   },
   {
     "id": "cet4-case-004",
@@ -137,7 +152,12 @@
       "cet4-q-002464",
       "cet4-q-003284"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级题型构成 的 选词填空解题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0004"
+    ]
   },
   {
     "id": "cet4-case-005",
@@ -172,7 +192,12 @@
       "cet4-q-002465",
       "cet4-q-003285"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级评分标准 的 阅读理解定位 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0005"
+    ]
   },
   {
     "id": "cet4-case-006",
@@ -207,7 +232,12 @@
       "cet4-q-002466",
       "cet4-q-003286"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级及格线 的 长篇阅读匹配 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0006"
+    ]
   },
   {
     "id": "cet4-case-007",
@@ -242,7 +272,12 @@
       "cet4-q-002467",
       "cet4-q-003287"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级报名时间 的 听力文本预测 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0007"
+    ]
   },
   {
     "id": "cet4-case-008",
@@ -277,7 +312,12 @@
       "cet4-q-002468",
       "cet4-q-003288"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级报名流程 的 翻译表达优化 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0008"
+    ]
   },
   {
     "id": "cet4-case-009",
@@ -312,7 +352,12 @@
       "cet4-q-002469",
       "cet4-q-003289"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级报名条件 的 写作开头段 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0009"
+    ]
   },
   {
     "id": "cet4-case-010",
@@ -347,7 +392,12 @@
       "cet4-q-002470",
       "cet4-q-003290"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级报名费用 的 写作主体段 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0010"
+    ]
   },
   {
     "id": "cet4-case-011",
@@ -382,7 +432,12 @@
       "cet4-q-002471",
       "cet4-q-003291"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级准考证打印 的 写作结尾段 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0011"
+    ]
   },
   {
     "id": "cet4-case-012",
@@ -417,7 +472,12 @@
       "cet4-q-002472",
       "cet4-q-003292"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级考场规则 的 图表作文 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0012"
+    ]
   },
   {
     "id": "cet4-case-013",
@@ -452,7 +512,12 @@
       "cet4-q-002473",
       "cet4-q-003293"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级考试物品 的 议论文 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0013"
+    ]
   },
   {
     "id": "cet4-case-014",
@@ -487,7 +552,12 @@
       "cet4-q-002474",
       "cet4-q-003294"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级考试流程 的 校园主题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0014"
+    ]
   },
   {
     "id": "cet4-case-015",
@@ -522,7 +592,12 @@
       "cet4-q-002475",
       "cet4-q-003295"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级听力流程 的 科技主题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0015"
+    ]
   },
   {
     "id": "cet4-case-016",
@@ -557,7 +632,12 @@
       "cet4-q-002476",
       "cet4-q-003296"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级阅读流程 的 环境主题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0016"
+    ]
   },
   {
     "id": "cet4-case-017",
@@ -592,7 +672,12 @@
       "cet4-q-002477",
       "cet4-q-003297"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级翻译流程 的 中国文化翻译 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0017"
+    ]
   },
   {
     "id": "cet4-case-018",
@@ -627,7 +712,12 @@
       "cet4-q-002478",
       "cet4-q-003298"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级写作流程 的 错题复盘 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0018"
+    ]
   },
   {
     "id": "cet4-case-019",
@@ -662,7 +752,12 @@
       "cet4-q-002479",
       "cet4-q-003299"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级时间分配 的 模拟卷时间分配 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0019"
+    ]
   },
   {
     "id": "cet4-case-020",
@@ -697,7 +792,12 @@
       "cet4-q-002480",
       "cet4-q-003300"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级各题时间 的 考前冲刺 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0020"
+    ]
   },
   {
     "id": "cet4-case-021",
@@ -732,7 +832,12 @@
       "cet4-q-002481",
       "cet4-q-003301"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级备考资料 的 听力对话 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0021"
+    ]
   },
   {
     "id": "cet4-case-022",
@@ -767,7 +872,12 @@
       "cet4-q-002482",
       "cet4-q-003302"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级备考计划 的 听力短文 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0022"
+    ]
   },
   {
     "id": "cet4-case-023",
@@ -802,7 +912,12 @@
       "cet4-q-002483",
       "cet4-q-003303"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级备考周期 的 听力讲座 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0023"
+    ]
   },
   {
     "id": "cet4-case-024",
@@ -837,7 +952,12 @@
       "cet4-q-002484",
       "cet4-q-003304"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级备考心态 的 翻译主语处理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0024"
+    ]
   },
   {
     "id": "cet4-case-025",
@@ -872,7 +992,12 @@
       "cet4-q-002485",
       "cet4-q-003305"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级备考误区 的 翻译时态处理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0025"
+    ]
   },
   {
     "id": "cet4-case-026",
@@ -907,7 +1032,12 @@
       "cet4-q-002486",
       "cet4-q-003306"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 错题本建立 的 翻译从句处理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0026"
+    ]
   },
   {
     "id": "cet4-case-027",
@@ -942,7 +1072,12 @@
       "cet4-q-002487",
       "cet4-q-003307"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 错题本分类 的 写作句型运用 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0027"
+    ]
   },
   {
     "id": "cet4-case-028",
@@ -977,7 +1112,12 @@
       "cet4-q-002488",
       "cet4-q-003308"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 错题本格式 的 写作模板套用 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0028"
+    ]
   },
   {
     "id": "cet4-case-029",
@@ -1012,7 +1152,12 @@
       "cet4-q-002489",
       "cet4-q-003309"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 错题本复习 的 阅读主旨题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0029"
+    ]
   },
   {
     "id": "cet4-case-030",
@@ -1047,7 +1192,12 @@
       "cet4-q-002490",
       "cet4-q-003310"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 碎片时间利用 的 阅读细节题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0030"
+    ]
   },
   {
     "id": "cet4-case-031",
@@ -1082,7 +1232,12 @@
       "cet4-q-002491",
       "cet4-q-003311"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级成绩查询 的 阅读推理题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0031"
+    ]
   },
   {
     "id": "cet4-case-032",
@@ -1117,7 +1272,12 @@
       "cet4-q-002492",
       "cet4-q-003312"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级成绩复议 的 阅读词义题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0032"
+    ]
   },
   {
     "id": "cet4-case-033",
@@ -1152,7 +1312,12 @@
       "cet4-q-002493",
       "cet4-q-003313"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级证书作用 的 阅读态度题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0033"
+    ]
   },
   {
     "id": "cet4-case-034",
@@ -1187,7 +1352,12 @@
       "cet4-q-002494",
       "cet4-q-003314"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级与学位 的 选词词性判断 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0034"
+    ]
   },
   {
     "id": "cet4-case-035",
@@ -1222,7 +1392,12 @@
       "cet4-q-002495",
       "cet4-q-003315"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 四级与求职 的 选词上下文逻辑 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0035"
+    ]
   },
   {
     "id": "cet4-case-036",
@@ -1257,7 +1432,12 @@
       "cet4-q-002496",
       "cet4-q-003316"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 词汇记忆方法 的 长篇关键词定位 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0036"
+    ]
   },
   {
     "id": "cet4-case-037",
@@ -1292,7 +1472,12 @@
       "cet4-q-002497",
       "cet4-q-003317"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 词根记忆法 的 长篇同义替换 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0037"
+    ]
   },
   {
     "id": "cet4-case-038",
@@ -1327,7 +1512,12 @@
       "cet4-q-002498",
       "cet4-q-003318"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 词缀记忆法 的 短语搭配运用 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0038"
+    ]
   },
   {
     "id": "cet4-case-039",
@@ -1362,7 +1552,12 @@
       "cet4-q-002499",
       "cet4-q-003319"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 ab 的 形近词辨析 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0039"
+    ]
   },
   {
     "id": "cet4-case-040",
@@ -1397,7 +1592,12 @@
       "cet4-q-002500",
       "cet4-q-003320"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 ad 的 近义词辨析 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0040"
+    ]
   },
   {
     "id": "cet4-case-041",
@@ -1432,7 +1632,12 @@
       "cet4-q-002501",
       "cet4-q-003321"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 com 的 词根词缀记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0041"
+    ]
   },
   {
     "id": "cet4-case-042",
@@ -1467,7 +1672,12 @@
       "cet4-q-002502",
       "cet4-q-003322"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 dis 的 语法时态复习 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0042"
+    ]
   },
   {
     "id": "cet4-case-043",
@@ -1502,7 +1712,12 @@
       "cet4-q-002503",
       "cet4-q-003323"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 ex 的 语法从句复习 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0043"
+    ]
   },
   {
     "id": "cet4-case-044",
@@ -1537,7 +1752,12 @@
       "cet4-q-002504",
       "cet4-q-003324"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 in 的 语法非谓语复习 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0044"
+    ]
   },
   {
     "id": "cet4-case-045",
@@ -1572,7 +1792,12 @@
       "cet4-q-002505",
       "cet4-q-003325"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 pre 的 语法虚拟语气 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0045"
+    ]
   },
   {
     "id": "cet4-case-046",
@@ -1607,7 +1832,12 @@
       "cet4-q-002506",
       "cet4-q-003326"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 re 的 语法倒装强调 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0046"
+    ]
   },
   {
     "id": "cet4-case-047",
@@ -1642,7 +1872,12 @@
       "cet4-q-002507",
       "cet4-q-003327"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 sub 的 写作连接词 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0047"
+    ]
   },
   {
     "id": "cet4-case-048",
@@ -1677,7 +1912,12 @@
       "cet4-q-002508",
       "cet4-q-003328"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 前缀 trans 的 写作高级句型 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0048"
+    ]
   },
   {
     "id": "cet4-case-049",
@@ -1712,7 +1952,12 @@
       "cet4-q-002509",
       "cet4-q-003329"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 able 的 写作高级词汇 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0049"
+    ]
   },
   {
     "id": "cet4-case-050",
@@ -1747,7 +1992,12 @@
       "cet4-q-002510",
       "cet4-q-003330"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 al 的 写作审题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0050"
+    ]
   },
   {
     "id": "cet4-case-051",
@@ -1782,7 +2032,12 @@
       "cet4-q-002511",
       "cet4-q-003331"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 er 的 写作列提纲 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0051"
+    ]
   },
   {
     "id": "cet4-case-052",
@@ -1817,7 +2072,12 @@
       "cet4-q-002512",
       "cet4-q-003332"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 ful 的 写作修改 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0052"
+    ]
   },
   {
     "id": "cet4-case-053",
@@ -1852,7 +2112,12 @@
       "cet4-q-002513",
       "cet4-q-003333"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 ion 的 翻译中译英 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0053"
+    ]
   },
   {
     "id": "cet4-case-054",
@@ -1887,7 +2152,12 @@
       "cet4-q-002514",
       "cet4-q-003334"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 ish 的 翻译中国文化 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0054"
+    ]
   },
   {
     "id": "cet4-case-055",
@@ -1922,7 +2192,12 @@
       "cet4-q-002515",
       "cet4-q-003335"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 less 的 翻译校园生活 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0055"
+    ]
   },
   {
     "id": "cet4-case-056",
@@ -1957,7 +2232,12 @@
       "cet4-q-002516",
       "cet4-q-003336"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 ly 的 翻译科技 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0056"
+    ]
   },
   {
     "id": "cet4-case-057",
@@ -1992,7 +2272,12 @@
       "cet4-q-002517",
       "cet4-q-003337"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 ment 的 翻译环境 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0057"
+    ]
   },
   {
     "id": "cet4-case-058",
@@ -2027,7 +2312,12 @@
       "cet4-q-002518",
       "cet4-q-003338"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 ness 的 翻译社会 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0058"
+    ]
   },
   {
     "id": "cet4-case-059",
@@ -2062,7 +2352,12 @@
       "cet4-q-002519",
       "cet4-q-003339"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 ous 的 听力校园场景 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0059"
+    ]
   },
   {
     "id": "cet4-case-060",
@@ -2097,7 +2392,12 @@
       "cet4-q-002520",
       "cet4-q-003340"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 后缀 tion 的 听力旅游场景 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0060"
+    ]
   },
   {
     "id": "cet4-case-061",
@@ -2132,7 +2432,12 @@
       "cet4-q-002521",
       "cet4-q-003341"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形近词 accept 的 听力购物场景 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0061"
+    ]
   },
   {
     "id": "cet4-case-062",
@@ -2167,7 +2472,12 @@
       "cet4-q-002522",
       "cet4-q-003342"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形近词 except 的 听力工作场景 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0062"
+    ]
   },
   {
     "id": "cet4-case-063",
@@ -2202,7 +2512,12 @@
       "cet4-q-002523",
       "cet4-q-003343"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形近词 affect 的 错题本整理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0063"
+    ]
   },
   {
     "id": "cet4-case-064",
@@ -2237,7 +2552,12 @@
       "cet4-q-002524",
       "cet4-q-003344"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形近词 effect 的 错题分类 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0064"
+    ]
   },
   {
     "id": "cet4-case-065",
@@ -2272,7 +2592,12 @@
       "cet4-q-002525",
       "cet4-q-003345"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形近词 advice 的 错因分析 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0065"
+    ]
   },
   {
     "id": "cet4-case-066",
@@ -2307,7 +2632,12 @@
       "cet4-q-002526",
       "cet4-q-003346"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形近词 advise 的 薄弱项提升 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0066"
+    ]
   },
   {
     "id": "cet4-case-067",
@@ -2342,7 +2672,12 @@
       "cet4-q-002527",
       "cet4-q-003347"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形近词 complement 的 模拟卷听力 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0067"
+    ]
   },
   {
     "id": "cet4-case-068",
@@ -2377,7 +2712,12 @@
       "cet4-q-002528",
       "cet4-q-003348"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形近词 compliment 的 模拟卷阅读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0068"
+    ]
   },
   {
     "id": "cet4-case-069",
@@ -2412,7 +2752,12 @@
       "cet4-q-002529",
       "cet4-q-003349"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 近义词 big 的 模拟卷翻译 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0069"
+    ]
   },
   {
     "id": "cet4-case-070",
@@ -2447,7 +2792,12 @@
       "cet4-q-002530",
       "cet4-q-003350"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 近义词 large 的 模拟卷写作 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0070"
+    ]
   },
   {
     "id": "cet4-case-071",
@@ -2482,7 +2832,12 @@
       "cet4-q-002531",
       "cet4-q-003351"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 近义词 great 的 考前心态 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0071"
+    ]
   },
   {
     "id": "cet4-case-072",
@@ -2517,7 +2872,12 @@
       "cet4-q-002532",
       "cet4-q-003352"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 近义词 huge 的 考前作息 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0072"
+    ]
   },
   {
     "id": "cet4-case-073",
@@ -2552,7 +2912,12 @@
       "cet4-q-002533",
       "cet4-q-003353"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 take 的 考前物品 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0073"
+    ]
   },
   {
     "id": "cet4-case-074",
@@ -2587,7 +2952,12 @@
       "cet4-q-002534",
       "cet4-q-003354"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 get 的 考场应急 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0074"
+    ]
   },
   {
     "id": "cet4-case-075",
@@ -2622,7 +2992,12 @@
       "cet4-q-002535",
       "cet4-q-003355"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 make 的 四级报名流程 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0075"
+    ]
   },
   {
     "id": "cet4-case-076",
@@ -2657,7 +3032,12 @@
       "cet4-q-002536",
       "cet4-q-003356"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 have 的 四级准考证 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0076"
+    ]
   },
   {
     "id": "cet4-case-077",
@@ -2692,7 +3072,12 @@
       "cet4-q-002537",
       "cet4-q-003357"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 set 的 四级考场规则 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0077"
+    ]
   },
   {
     "id": "cet4-case-078",
@@ -2727,7 +3112,12 @@
       "cet4-q-002538",
       "cet4-q-003358"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 break 的 四级成绩查询 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0078"
+    ]
   },
   {
     "id": "cet4-case-079",
@@ -2762,7 +3152,12 @@
       "cet4-q-002539",
       "cet4-q-003359"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 catch 的 词汇联想记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0079"
+    ]
   },
   {
     "id": "cet4-case-080",
@@ -2797,7 +3192,12 @@
       "cet4-q-002540",
       "cet4-q-003360"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 hold 的 词汇词根记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0080"
+    ]
   },
   {
     "id": "cet4-case-081",
@@ -2832,7 +3232,12 @@
       "cet4-q-002541",
       "cet4-q-003361"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 keep 的 词汇词缀记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0081"
+    ]
   },
   {
     "id": "cet4-case-082",
@@ -2867,7 +3272,12 @@
       "cet4-q-002542",
       "cet4-q-003362"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 多义词 run 的 词汇搭配记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0082"
+    ]
   },
   {
     "id": "cet4-case-083",
@@ -2902,7 +3312,12 @@
       "cet4-q-002543",
       "cet4-q-003363"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 抽象词 beauty 的 阅读略读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0083"
+    ]
   },
   {
     "id": "cet4-case-084",
@@ -2937,7 +3352,12 @@
       "cet4-q-002544",
       "cet4-q-003364"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 抽象词 freedom 的 阅读寻读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0084"
+    ]
   },
   {
     "id": "cet4-case-085",
@@ -2972,7 +3392,12 @@
       "cet4-q-002545",
       "cet4-q-003365"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 抽象词 happiness 的 阅读精读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0085"
+    ]
   },
   {
     "id": "cet4-case-086",
@@ -3007,7 +3432,12 @@
       "cet4-q-002546",
       "cet4-q-003366"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 抽象词 knowledge 的 阅读速读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0086"
+    ]
   },
   {
     "id": "cet4-case-087",
@@ -3042,7 +3472,12 @@
       "cet4-q-002547",
       "cet4-q-003367"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 抽象词 wisdom 的 听力速记 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0087"
+    ]
   },
   {
     "id": "cet4-case-088",
@@ -3077,7 +3512,12 @@
       "cet4-q-002548",
       "cet4-q-003368"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 具体词 book 的 听力预测 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0088"
+    ]
   },
   {
     "id": "cet4-case-089",
@@ -3112,7 +3552,12 @@
       "cet4-q-002549",
       "cet4-q-003369"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 具体词 desk 的 听力信号词 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0089"
+    ]
   },
   {
     "id": "cet4-case-090",
@@ -3147,7 +3592,12 @@
       "cet4-q-002550",
       "cet4-q-003370"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 具体词 tree 的 听力场景词 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0090"
+    ]
   },
   {
     "id": "cet4-case-091",
@@ -3182,7 +3632,12 @@
       "cet4-q-002551",
       "cet4-q-003371"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词 acquire 的 翻译技巧 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0091"
+    ]
   },
   {
     "id": "cet4-case-092",
@@ -3217,7 +3672,12 @@
       "cet4-q-002552",
       "cet4-q-003372"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词 abandon 的 翻译表达 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0092"
+    ]
   },
   {
     "id": "cet4-case-093",
@@ -3252,7 +3712,12 @@
       "cet4-q-002553",
       "cet4-q-003373"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词 accomplish 的 翻译优化 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0093"
+    ]
   },
   {
     "id": "cet4-case-094",
@@ -3287,7 +3752,12 @@
       "cet4-q-002554",
       "cet4-q-003374"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词 adapt 的 写作开头句 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0094"
+    ]
   },
   {
     "id": "cet4-case-095",
@@ -3322,7 +3792,12 @@
       "cet4-q-002555",
       "cet4-q-003375"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词 allocate 的 写作过渡句 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0095"
+    ]
   },
   {
     "id": "cet4-case-096",
@@ -3357,7 +3832,12 @@
       "cet4-q-002556",
       "cet4-q-003376"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词 anticipate 的 写作结尾句 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0096"
+    ]
   },
   {
     "id": "cet4-case-097",
@@ -3392,7 +3872,12 @@
       "cet4-q-002557",
       "cet4-q-003377"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词 appraise 的 写作三段式 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0097"
+    ]
   },
   {
     "id": "cet4-case-098",
@@ -3427,7 +3912,12 @@
       "cet4-q-002558",
       "cet4-q-003378"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词 ascertain 的 图表描述 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0098"
+    ]
   },
   {
     "id": "cet4-case-099",
@@ -3462,7 +3952,12 @@
       "cet4-q-002559",
       "cet4-q-003379"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词 abundance 的 议论文三段 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0099"
+    ]
   },
   {
     "id": "cet4-case-100",
@@ -3497,7 +3992,12 @@
       "cet4-q-002560",
       "cet4-q-003380"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词 accommodation 的 应用文格式 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0100"
+    ]
   },
   {
     "id": "cet4-case-101",
@@ -3532,7 +4032,12 @@
       "cet4-q-002561",
       "cet4-q-003381"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词 achievement 的 主题校园 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0101"
+    ]
   },
   {
     "id": "cet4-case-102",
@@ -3567,7 +4072,12 @@
       "cet4-q-002562",
       "cet4-q-003382"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词 administration 的 主题社会 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0102"
+    ]
   },
   {
     "id": "cet4-case-103",
@@ -3602,7 +4112,12 @@
       "cet4-q-002563",
       "cet4-q-003383"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词 abundant 的 主题科技 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0103"
+    ]
   },
   {
     "id": "cet4-case-104",
@@ -3637,7 +4152,12 @@
       "cet4-q-002564",
       "cet4-q-003384"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词 accurate 的 主题环境 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0104"
+    ]
   },
   {
     "id": "cet4-case-105",
@@ -3672,7 +4192,12 @@
       "cet4-q-002565",
       "cet4-q-003385"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词 adequate 的 主题文化 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0105"
+    ]
   },
   {
     "id": "cet4-case-106",
@@ -3707,7 +4232,12 @@
       "cet4-q-002566",
       "cet4-q-003386"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词 apparent 的 模拟时间分配 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0106"
+    ]
   },
   {
     "id": "cet4-case-107",
@@ -3742,7 +4272,12 @@
       "cet4-q-002567",
       "cet4-q-003387"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 副词 absolutely 的 模拟策略 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0107"
+    ]
   },
   {
     "id": "cet4-case-108",
@@ -3777,7 +4312,12 @@
       "cet4-q-002568",
       "cet4-q-003388"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 副词 accurately 的 模拟心理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0108"
+    ]
   },
   {
     "id": "cet4-case-109",
@@ -3812,7 +4352,12 @@
       "cet4-q-002569",
       "cet4-q-003389"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 副词 adequately 的 模拟复盘 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0109"
+    ]
   },
   {
     "id": "cet4-case-110",
@@ -3847,7 +4392,12 @@
       "cet4-q-002570",
       "cet4-q-003390"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 副词 apparently 的 考前高频考点 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0110"
+    ]
   },
   {
     "id": "cet4-case-111",
@@ -3882,7 +4432,12 @@
       "cet4-q-002571",
       "cet4-q-003391"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 take part in 的 考前词汇速记 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0111"
+    ]
   },
   {
     "id": "cet4-case-112",
@@ -3917,7 +4472,12 @@
       "cet4-q-002572",
       "cet4-q-003392"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 take advantage of 的 考前句型速记 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0112"
+    ]
   },
   {
     "id": "cet4-case-113",
@@ -3952,7 +4512,12 @@
       "cet4-q-002573",
       "cet4-q-003393"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 take for granted 的 考前冲刺计划 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0113"
+    ]
   },
   {
     "id": "cet4-case-114",
@@ -3987,7 +4552,12 @@
       "cet4-q-002574",
       "cet4-q-003394"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 put off 的 错题词汇 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0114"
+    ]
   },
   {
     "id": "cet4-case-115",
@@ -4022,7 +4592,12 @@
       "cet4-q-002575",
       "cet4-q-003395"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 put up with 的 错题语法 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0115"
+    ]
   },
   {
     "id": "cet4-case-116",
@@ -4057,7 +4632,12 @@
       "cet4-q-002576",
       "cet4-q-003396"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 come up with 的 错题阅读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0116"
+    ]
   },
   {
     "id": "cet4-case-117",
@@ -4092,7 +4672,12 @@
       "cet4-q-002577",
       "cet4-q-003397"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 come across 的 错题听力 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0117"
+    ]
   },
   {
     "id": "cet4-case-118",
@@ -4127,7 +4712,12 @@
       "cet4-q-002578",
       "cet4-q-003398"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 look forward to 的 错题翻译 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0118"
+    ]
   },
   {
     "id": "cet4-case-119",
@@ -4162,7 +4752,12 @@
       "cet4-q-002579",
       "cet4-q-003399"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 look into 的 错题写作 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0119"
+    ]
   },
   {
     "id": "cet4-case-120",
@@ -4197,7 +4792,12 @@
       "cet4-q-002580",
       "cet4-q-003400"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 turn out 的 薄弱词汇 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0120"
+    ]
   },
   {
     "id": "cet4-case-121",
@@ -4232,7 +4832,12 @@
       "cet4-q-002581",
       "cet4-q-003401"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 turn down 的 薄弱语法 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0121"
+    ]
   },
   {
     "id": "cet4-case-122",
@@ -4267,7 +4872,12 @@
       "cet4-q-002582",
       "cet4-q-003402"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 carry on 的 薄弱阅读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0122"
+    ]
   },
   {
     "id": "cet4-case-123",
@@ -4302,7 +4912,12 @@
       "cet4-q-002583",
       "cet4-q-003403"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 carry out 的 薄弱听力 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0123"
+    ]
   },
   {
     "id": "cet4-case-124",
@@ -4337,7 +4952,12 @@
       "cet4-q-002584",
       "cet4-q-003404"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 get along with 的 薄弱翻译 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0124"
+    ]
   },
   {
     "id": "cet4-case-125",
@@ -4372,7 +4992,12 @@
       "cet4-q-002585",
       "cet4-q-003405"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 get rid of 的 薄弱写作 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0125"
+    ]
   },
   {
     "id": "cet4-case-126",
@@ -4407,7 +5032,12 @@
       "cet4-q-002586",
       "cet4-q-003406"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 keep up with 的 四级备考计划 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0126"
+    ]
   },
   {
     "id": "cet4-case-127",
@@ -4442,7 +5072,12 @@
       "cet4-q-002587",
       "cet4-q-003407"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 make up for 的 四级备考周期 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0127"
+    ]
   },
   {
     "id": "cet4-case-128",
@@ -4477,7 +5112,12 @@
       "cet4-q-002588",
       "cet4-q-003408"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 make sense 的 四级备考资料 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0128"
+    ]
   },
   {
     "id": "cet4-case-129",
@@ -4512,7 +5152,12 @@
       "cet4-q-002589",
       "cet4-q-003409"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 set up 的 四级备考方法 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0129"
+    ]
   },
   {
     "id": "cet4-case-130",
@@ -4547,7 +5192,12 @@
       "cet4-q-002590",
       "cet4-q-003410"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 高频短语 set out 的 四级备考心态 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0130"
+    ]
   },
   {
     "id": "cet4-case-131",
@@ -4582,7 +5232,12 @@
       "cet4-q-002591",
       "cet4-q-003411"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 take 的 四级备考误区 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0131"
+    ]
   },
   {
     "id": "cet4-case-132",
@@ -4617,7 +5272,12 @@
       "cet4-q-002592",
       "cet4-q-003412"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 make 的 四级评分标准 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0132"
+    ]
   },
   {
     "id": "cet4-case-133",
@@ -4652,7 +5312,12 @@
       "cet4-q-002593",
       "cet4-q-003413"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 do 的 四级评分听力 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0133"
+    ]
   },
   {
     "id": "cet4-case-134",
@@ -4687,7 +5352,12 @@
       "cet4-q-002594",
       "cet4-q-003414"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 have 的 四级评分阅读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0134"
+    ]
   },
   {
     "id": "cet4-case-135",
@@ -4722,7 +5392,12 @@
       "cet4-q-002595",
       "cet4-q-003415"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 give 的 四级评分翻译 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0135"
+    ]
   },
   {
     "id": "cet4-case-136",
@@ -4757,7 +5432,12 @@
       "cet4-q-002596",
       "cet4-q-003416"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 keep 的 四级评分写作 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0136"
+    ]
   },
   {
     "id": "cet4-case-137",
@@ -4792,7 +5472,12 @@
       "cet4-q-002597",
       "cet4-q-003417"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 pay 的 四级时间分配 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0137"
+    ]
   },
   {
     "id": "cet4-case-138",
@@ -4827,7 +5512,12 @@
       "cet4-q-002598",
       "cet4-q-003418"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 bring 的 四级各题时间 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0138"
+    ]
   },
   {
     "id": "cet4-case-139",
@@ -4862,7 +5552,12 @@
       "cet4-q-002599",
       "cet4-q-003419"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 catch 的 四级听力流程 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0139"
+    ]
   },
   {
     "id": "cet4-case-140",
@@ -4897,7 +5592,12 @@
       "cet4-q-002600",
       "cet4-q-003420"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词搭配 hold 的 四级阅读流程 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0140"
+    ]
   },
   {
     "id": "cet4-case-141",
@@ -4932,7 +5632,12 @@
       "cet4-q-002601",
       "cet4-q-003421"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 attention 的 四级翻译流程 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0141"
+    ]
   },
   {
     "id": "cet4-case-142",
@@ -4967,7 +5672,12 @@
       "cet4-q-002602",
       "cet4-q-003422"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 interest 的 四级写作流程 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0142"
+    ]
   },
   {
     "id": "cet4-case-143",
@@ -5002,7 +5712,12 @@
       "cet4-q-002603",
       "cet4-q-003423"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 trouble 的 四级阅读题型 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0143"
+    ]
   },
   {
     "id": "cet4-case-144",
@@ -5037,7 +5752,12 @@
       "cet4-q-002604",
       "cet4-q-003424"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 difficulty 的 四级听力题型 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0144"
+    ]
   },
   {
     "id": "cet4-case-145",
@@ -5072,7 +5792,12 @@
       "cet4-q-002605",
       "cet4-q-003425"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 advantage 的 四级翻译主题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0145"
+    ]
   },
   {
     "id": "cet4-case-146",
@@ -5107,7 +5832,12 @@
       "cet4-q-002606",
       "cet4-q-003426"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 benefit 的 四级写作类型 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0146"
+    ]
   },
   {
     "id": "cet4-case-147",
@@ -5142,7 +5872,12 @@
       "cet4-q-002607",
       "cet4-q-003427"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 effect 的 四级词汇分类 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0147"
+    ]
   },
   {
     "id": "cet4-case-148",
@@ -5177,7 +5912,12 @@
       "cet4-q-002608",
       "cet4-q-003428"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 influence 的 四级短语分类 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0148"
+    ]
   },
   {
     "id": "cet4-case-149",
@@ -5212,7 +5952,12 @@
       "cet4-q-002609",
       "cet4-q-003429"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 impact 的 四级语法重点 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0149"
+    ]
   },
   {
     "id": "cet4-case-150",
@@ -5247,7 +5992,12 @@
       "cet4-q-002610",
       "cet4-q-003430"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词搭配 role 的 四级长难句 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0150"
+    ]
   },
   {
     "id": "cet4-case-151",
@@ -5282,7 +6032,12 @@
       "cet4-q-002611",
       "cet4-q-003431"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词搭配 afraid of 的 四级选词填空 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0151"
+    ]
   },
   {
     "id": "cet4-case-152",
@@ -5317,7 +6072,12 @@
       "cet4-q-002612",
       "cet4-q-003432"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词搭配 aware of 的 四级长篇阅读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0152"
+    ]
   },
   {
     "id": "cet4-case-153",
@@ -5352,7 +6112,12 @@
       "cet4-q-002613",
       "cet4-q-003433"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词搭配 capable of 的 四级翻译技巧 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0153"
+    ]
   },
   {
     "id": "cet4-case-154",
@@ -5387,7 +6152,12 @@
       "cet4-q-002614",
       "cet4-q-003434"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词搭配 fond of 的 四级写作模板 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0154"
+    ]
   },
   {
     "id": "cet4-case-155",
@@ -5422,7 +6192,12 @@
       "cet4-q-002615",
       "cet4-q-003435"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词搭配 guilty of 的 四级听力技巧 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0155"
+    ]
   },
   {
     "id": "cet4-case-156",
@@ -5457,7 +6232,12 @@
       "cet4-q-002616",
       "cet4-q-003436"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词搭配 tired of 的 四级阅读技巧 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0156"
+    ]
   },
   {
     "id": "cet4-case-157",
@@ -5492,7 +6272,12 @@
       "cet4-q-002617",
       "cet4-q-003437"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词搭配 proud of 的 四级词汇技巧 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0157"
+    ]
   },
   {
     "id": "cet4-case-158",
@@ -5527,7 +6312,12 @@
       "cet4-q-002618",
       "cet4-q-003438"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词搭配 short of 的 四级语法技巧 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0158"
+    ]
   },
   {
     "id": "cet4-case-159",
@@ -5562,7 +6352,12 @@
       "cet4-q-002619",
       "cet4-q-003439"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 介词搭配 at 的 四级综合技巧 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0159"
+    ]
   },
   {
     "id": "cet4-case-160",
@@ -5597,7 +6392,12 @@
       "cet4-q-002620",
       "cet4-q-003440"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 介词搭配 in 的 高频词汇记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0160"
+    ]
   },
   {
     "id": "cet4-case-161",
@@ -5632,7 +6432,12 @@
       "cet4-q-002621",
       "cet4-q-003441"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 介词搭配 on 的 词义辨析 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0161"
+    ]
   },
   {
     "id": "cet4-case-162",
@@ -5667,7 +6472,12 @@
       "cet4-q-002622",
       "cet4-q-003442"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 介词搭配 for 的 长难句拆解 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0162"
+    ]
   },
   {
     "id": "cet4-case-163",
@@ -5702,7 +6512,12 @@
       "cet4-q-002623",
       "cet4-q-003443"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 介词搭配 with 的 选词填空解题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0163"
+    ]
   },
   {
     "id": "cet4-case-164",
@@ -5737,7 +6552,12 @@
       "cet4-q-002624",
       "cet4-q-003444"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 介词搭配 by 的 阅读理解定位 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0164"
+    ]
   },
   {
     "id": "cet4-case-165",
@@ -5772,7 +6592,12 @@
       "cet4-q-002625",
       "cet4-q-003445"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 介词搭配 of 的 长篇阅读匹配 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0165"
+    ]
   },
   {
     "id": "cet4-case-166",
@@ -5807,7 +6632,12 @@
       "cet4-q-002626",
       "cet4-q-003446"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 介词搭配 to 的 听力文本预测 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0166"
+    ]
   },
   {
     "id": "cet4-case-167",
@@ -5842,7 +6672,12 @@
       "cet4-q-002627",
       "cet4-q-003447"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 习语 a piece of cake 的 翻译表达优化 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0167"
+    ]
   },
   {
     "id": "cet4-case-168",
@@ -5877,7 +6712,12 @@
       "cet4-q-002628",
       "cet4-q-003448"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 习语 once in a while 的 写作开头段 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0168"
+    ]
   },
   {
     "id": "cet4-case-169",
@@ -5912,7 +6752,12 @@
       "cet4-q-002629",
       "cet4-q-003449"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 习语 on the other hand 的 写作主体段 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0169"
+    ]
   },
   {
     "id": "cet4-case-170",
@@ -5947,7 +6792,12 @@
       "cet4-q-002630",
       "cet4-q-003450"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 习语 by the way 的 写作结尾段 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0170"
+    ]
   },
   {
     "id": "cet4-case-171",
@@ -5982,7 +6832,12 @@
       "cet4-q-002631",
       "cet4-q-003451"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 习语 in a word 的 图表作文 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0171"
+    ]
   },
   {
     "id": "cet4-case-172",
@@ -6017,7 +6872,12 @@
       "cet4-q-002632",
       "cet4-q-003452"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 一般现在时 的 议论文 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0172"
+    ]
   },
   {
     "id": "cet4-case-173",
@@ -6052,7 +6912,12 @@
       "cet4-q-002633",
       "cet4-q-003453"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 一般过去时 的 校园主题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0173"
+    ]
   },
   {
     "id": "cet4-case-174",
@@ -6087,7 +6952,12 @@
       "cet4-q-002634",
       "cet4-q-003454"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 一般将来时 的 科技主题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0174"
+    ]
   },
   {
     "id": "cet4-case-175",
@@ -6122,7 +6992,12 @@
       "cet4-q-002635",
       "cet4-q-003455"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 现在进行时 的 环境主题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0175"
+    ]
   },
   {
     "id": "cet4-case-176",
@@ -6157,7 +7032,12 @@
       "cet4-q-002636",
       "cet4-q-003456"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 过去进行时 的 中国文化翻译 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0176"
+    ]
   },
   {
     "id": "cet4-case-177",
@@ -6192,7 +7072,12 @@
       "cet4-q-002637",
       "cet4-q-003457"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 现在完成时 的 错题复盘 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0177"
+    ]
   },
   {
     "id": "cet4-case-178",
@@ -6227,7 +7112,12 @@
       "cet4-q-002638",
       "cet4-q-003458"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 过去完成时 的 模拟卷时间分配 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0178"
+    ]
   },
   {
     "id": "cet4-case-179",
@@ -6262,7 +7152,12 @@
       "cet4-q-002639",
       "cet4-q-003459"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 将来完成时 的 考前冲刺 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0179"
+    ]
   },
   {
     "id": "cet4-case-180",
@@ -6297,7 +7192,12 @@
       "cet4-q-002640",
       "cet4-q-003460"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 被动语态 的 听力对话 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0180"
+    ]
   },
   {
     "id": "cet4-case-181",
@@ -6332,7 +7232,12 @@
       "cet4-q-002641",
       "cet4-q-003461"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 主动转被动 的 听力短文 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0181"
+    ]
   },
   {
     "id": "cet4-case-182",
@@ -6367,7 +7272,12 @@
       "cet4-q-002642",
       "cet4-q-003462"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 不定式 的 听力讲座 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0182"
+    ]
   },
   {
     "id": "cet4-case-183",
@@ -6402,7 +7312,12 @@
       "cet4-q-002643",
       "cet4-q-003463"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动名词 的 翻译主语处理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0183"
+    ]
   },
   {
     "id": "cet4-case-184",
@@ -6437,7 +7352,12 @@
       "cet4-q-002644",
       "cet4-q-003464"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 分词 的 翻译时态处理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0184"
+    ]
   },
   {
     "id": "cet4-case-185",
@@ -6472,7 +7392,12 @@
       "cet4-q-002645",
       "cet4-q-003465"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 现在分词 的 翻译从句处理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0185"
+    ]
   },
   {
     "id": "cet4-case-186",
@@ -6507,7 +7432,12 @@
       "cet4-q-002646",
       "cet4-q-003466"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 过去分词 的 写作句型运用 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0186"
+    ]
   },
   {
     "id": "cet4-case-187",
@@ -6542,7 +7472,12 @@
       "cet4-q-002647",
       "cet4-q-003467"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 分词作定语 的 写作模板套用 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0187"
+    ]
   },
   {
     "id": "cet4-case-188",
@@ -6577,7 +7512,12 @@
       "cet4-q-002648",
       "cet4-q-003468"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 分词作状语 的 阅读主旨题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0188"
+    ]
   },
   {
     "id": "cet4-case-189",
@@ -6612,7 +7552,12 @@
       "cet4-q-002649",
       "cet4-q-003469"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 定语从句概述 的 阅读细节题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0189"
+    ]
   },
   {
     "id": "cet4-case-190",
@@ -6647,7 +7592,12 @@
       "cet4-q-002650",
       "cet4-q-003470"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 关系代词 who 的 阅读推理题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0190"
+    ]
   },
   {
     "id": "cet4-case-191",
@@ -6682,7 +7632,12 @@
       "cet4-q-002651",
       "cet4-q-003471"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 关系代词 which 的 阅读词义题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0191"
+    ]
   },
   {
     "id": "cet4-case-192",
@@ -6717,7 +7672,12 @@
       "cet4-q-002652",
       "cet4-q-003472"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 关系代词 that 的 阅读态度题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0192"
+    ]
   },
   {
     "id": "cet4-case-193",
@@ -6752,7 +7712,12 @@
       "cet4-q-002653",
       "cet4-q-003473"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 关系副词 where 的 选词词性判断 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0193"
+    ]
   },
   {
     "id": "cet4-case-194",
@@ -6787,7 +7752,12 @@
       "cet4-q-002654",
       "cet4-q-003474"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 关系副词 when 的 选词上下文逻辑 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0194"
+    ]
   },
   {
     "id": "cet4-case-195",
@@ -6822,7 +7792,12 @@
       "cet4-q-002655",
       "cet4-q-003475"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 关系副词 why 的 长篇关键词定位 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0195"
+    ]
   },
   {
     "id": "cet4-case-196",
@@ -6857,7 +7832,12 @@
       "cet4-q-002656",
       "cet4-q-003476"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 限制性定语从句 的 长篇同义替换 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0196"
+    ]
   },
   {
     "id": "cet4-case-197",
@@ -6892,7 +7872,12 @@
       "cet4-q-002657",
       "cet4-q-003477"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 非限制性定语从句 的 短语搭配运用 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0197"
+    ]
   },
   {
     "id": "cet4-case-198",
@@ -6927,7 +7912,12 @@
       "cet4-q-002658",
       "cet4-q-003478"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 主语从句 的 形近词辨析 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0198"
+    ]
   },
   {
     "id": "cet4-case-199",
@@ -6962,7 +7952,12 @@
       "cet4-q-002659",
       "cet4-q-003479"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 宾语从句 的 近义词辨析 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0199"
+    ]
   },
   {
     "id": "cet4-case-200",
@@ -6997,7 +7992,12 @@
       "cet4-q-002660",
       "cet4-q-003480"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 表语从句 的 词根词缀记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0200"
+    ]
   },
   {
     "id": "cet4-case-201",
@@ -7032,7 +8032,12 @@
       "cet4-q-002661",
       "cet4-q-003481"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 同位语从句 的 语法时态复习 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0201"
+    ]
   },
   {
     "id": "cet4-case-202",
@@ -7067,7 +8072,12 @@
       "cet4-q-002662",
       "cet4-q-003482"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 时间状语从句 的 语法从句复习 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0202"
+    ]
   },
   {
     "id": "cet4-case-203",
@@ -7102,7 +8112,12 @@
       "cet4-q-002663",
       "cet4-q-003483"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 原因状语从句 的 语法非谓语复习 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0203"
+    ]
   },
   {
     "id": "cet4-case-204",
@@ -7137,7 +8152,12 @@
       "cet4-q-002664",
       "cet4-q-003484"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 条件状语从句 的 语法虚拟语气 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0204"
+    ]
   },
   {
     "id": "cet4-case-205",
@@ -7172,7 +8192,12 @@
       "cet4-q-002665",
       "cet4-q-003485"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 让步状语从句 的 语法倒装强调 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0205"
+    ]
   },
   {
     "id": "cet4-case-206",
@@ -7207,7 +8232,12 @@
       "cet4-q-002666",
       "cet4-q-003486"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 目的状语从句 的 写作连接词 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0206"
+    ]
   },
   {
     "id": "cet4-case-207",
@@ -7242,7 +8272,12 @@
       "cet4-q-002667",
       "cet4-q-003487"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 结果状语从句 的 写作高级句型 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0207"
+    ]
   },
   {
     "id": "cet4-case-208",
@@ -7277,7 +8312,12 @@
       "cet4-q-002668",
       "cet4-q-003488"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 方式状语从句 的 写作高级词汇 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0208"
+    ]
   },
   {
     "id": "cet4-case-209",
@@ -7312,7 +8352,12 @@
       "cet4-q-002669",
       "cet4-q-003489"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 虚拟语气概述 的 写作审题 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0209"
+    ]
   },
   {
     "id": "cet4-case-210",
@@ -7347,7 +8392,12 @@
       "cet4-q-002670",
       "cet4-q-003490"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 虚拟条件句 的 写作列提纲 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0210"
+    ]
   },
   {
     "id": "cet4-case-211",
@@ -7382,7 +8432,12 @@
       "cet4-q-002671",
       "cet4-q-003491"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 虚拟 wish 的 写作修改 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0211"
+    ]
   },
   {
     "id": "cet4-case-212",
@@ -7417,7 +8472,12 @@
       "cet4-q-002672",
       "cet4-q-003492"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 虚拟 suggest 的 翻译中译英 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0212"
+    ]
   },
   {
     "id": "cet4-case-213",
@@ -7452,7 +8512,12 @@
       "cet4-q-002673",
       "cet4-q-003493"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 部分倒装 的 翻译中国文化 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0213"
+    ]
   },
   {
     "id": "cet4-case-214",
@@ -7487,7 +8552,12 @@
       "cet4-q-002674",
       "cet4-q-003494"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 完全倒装 的 翻译校园生活 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0214"
+    ]
   },
   {
     "id": "cet4-case-215",
@@ -7522,7 +8592,12 @@
       "cet4-q-002675",
       "cet4-q-003495"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 强调句 it is 的 翻译科技 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0215"
+    ]
   },
   {
     "id": "cet4-case-216",
@@ -7557,7 +8632,12 @@
       "cet4-q-002676",
       "cet4-q-003496"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 主谓一致原则 的 翻译环境 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0216"
+    ]
   },
   {
     "id": "cet4-case-217",
@@ -7592,7 +8672,12 @@
       "cet4-q-002677",
       "cet4-q-003497"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 长难句主干 的 翻译社会 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0217"
+    ]
   },
   {
     "id": "cet4-case-218",
@@ -7627,7 +8712,12 @@
       "cet4-q-002678",
       "cet4-q-003498"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 长难句从句识别 的 听力校园场景 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0218"
+    ]
   },
   {
     "id": "cet4-case-219",
@@ -7662,7 +8752,12 @@
       "cet4-q-002679",
       "cet4-q-003499"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 长难句拆分 的 听力旅游场景 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0219"
+    ]
   },
   {
     "id": "cet4-case-220",
@@ -7697,7 +8792,12 @@
       "cet4-q-002680",
       "cet4-q-003500"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 长难句翻译 的 听力购物场景 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0220"
+    ]
   },
   {
     "id": "cet4-case-221",
@@ -7731,7 +8831,12 @@
       "cet4-q-001861",
       "cet4-q-002681"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空定义 的 听力工作场景 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0221"
+    ]
   },
   {
     "id": "cet4-case-222",
@@ -7765,7 +8870,12 @@
       "cet4-q-001862",
       "cet4-q-002682"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空题型 的 错题本整理 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0222"
+    ]
   },
   {
     "id": "cet4-case-223",
@@ -7799,7 +8909,12 @@
       "cet4-q-001863",
       "cet4-q-002683"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空词性判断 的 错题分类 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0223"
+    ]
   },
   {
     "id": "cet4-case-224",
@@ -7833,7 +8948,12 @@
       "cet4-q-001864",
       "cet4-q-002684"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 名词判断 的 错因分析 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0224"
+    ]
   },
   {
     "id": "cet4-case-225",
@@ -7867,7 +8987,12 @@
       "cet4-q-001865",
       "cet4-q-002685"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 动词判断 的 薄弱项提升 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0225"
+    ]
   },
   {
     "id": "cet4-case-226",
@@ -7901,7 +9026,12 @@
       "cet4-q-001866",
       "cet4-q-002686"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 形容词判断 的 模拟卷听力 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0226"
+    ]
   },
   {
     "id": "cet4-case-227",
@@ -7935,7 +9065,12 @@
       "cet4-q-001867",
       "cet4-q-002687"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 副词判断 的 模拟卷阅读 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0227"
+    ]
   },
   {
     "id": "cet4-case-228",
@@ -7969,7 +9104,12 @@
       "cet4-q-001868",
       "cet4-q-002688"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空上下文 的 模拟卷翻译 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0228"
+    ]
   },
   {
     "id": "cet4-case-229",
@@ -8003,7 +9143,12 @@
       "cet4-q-001869",
       "cet4-q-002689"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空逻辑关系 的 模拟卷写作 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0229"
+    ]
   },
   {
     "id": "cet4-case-230",
@@ -8037,7 +9182,12 @@
       "cet4-q-001870",
       "cet4-q-002690"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空解题步骤 的 考前心态 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0230"
+    ]
   },
   {
     "id": "cet4-case-231",
@@ -8071,7 +9221,12 @@
       "cet4-q-001871",
       "cet4-q-002691"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空时间控制 的 考前作息 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0231"
+    ]
   },
   {
     "id": "cet4-case-232",
@@ -8105,7 +9260,12 @@
       "cet4-q-001872",
       "cet4-q-002692"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空常见错误 的 考前物品 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0232"
+    ]
   },
   {
     "id": "cet4-case-233",
@@ -8139,7 +9299,12 @@
       "cet4-q-001873",
       "cet4-q-002693"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空词义辨析 的 考场应急 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0233"
+    ]
   },
   {
     "id": "cet4-case-234",
@@ -8173,7 +9338,12 @@
       "cet4-q-001874",
       "cet4-q-002694"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空固定搭配 的 四级报名流程 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0234"
+    ]
   },
   {
     "id": "cet4-case-235",
@@ -8207,7 +9377,12 @@
       "cet4-q-001875",
       "cet4-q-002695"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 选词填空技巧总结 的 四级准考证 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0235"
+    ]
   },
   {
     "id": "cet4-case-236",
@@ -8241,7 +9416,12 @@
       "cet4-q-001876",
       "cet4-q-002696"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 阅读理解定义 的 四级考场规则 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0236"
+    ]
   },
   {
     "id": "cet4-case-237",
@@ -8275,7 +9455,12 @@
       "cet4-q-001877",
       "cet4-q-002697"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 阅读理解题型 的 四级成绩查询 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0237"
+    ]
   },
   {
     "id": "cet4-case-238",
@@ -8309,7 +9494,12 @@
       "cet4-q-001878",
       "cet4-q-002698"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 主旨题识别 的 词汇联想记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0238"
+    ]
   },
   {
     "id": "cet4-case-239",
@@ -8343,7 +9533,12 @@
       "cet4-q-001879",
       "cet4-q-002699"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 主旨题解题 的 词汇词根记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0239"
+    ]
   },
   {
     "id": "cet4-case-240",
@@ -8377,7 +9572,12 @@
       "cet4-q-001880",
       "cet4-q-002700"
     ],
-    "estimatedMinutes": 25
+    "estimatedMinutes": 25,
+    "description": "基于 细节定位 的 词汇词缀记忆 案例。",
+    "duration": 25,
+    "knowledgePointIds": [
+      "cet4-kp-0240"
+    ]
   },
   {
     "id": "en-case-241",
@@ -8385,33 +9585,19 @@
     "description": "通过听力掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "听力"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过听力掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过听力掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "听力案例241"
   },
   {
     "id": "en-case-242",
@@ -8419,33 +9605,19 @@
     "description": "通过词汇掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "词汇"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过词汇掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过词汇掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "词汇案例242"
   },
   {
     "id": "en-case-243",
@@ -8453,33 +9625,19 @@
     "description": "通过词汇掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "词汇"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过词汇掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过词汇掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "词汇案例243"
   },
   {
     "id": "en-case-244",
@@ -8487,33 +9645,19 @@
     "description": "通过阅读掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "阅读"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过阅读掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过阅读掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "阅读案例244"
   },
   {
     "id": "en-case-245",
@@ -8521,33 +9665,19 @@
     "description": "通过快速阅读掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "快速阅读"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过快速阅读掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过快速阅读掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "快速阅读案例245"
   },
   {
     "id": "en-case-246",
@@ -8555,33 +9685,19 @@
     "description": "通过词汇掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "词汇"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过词汇掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过词汇掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "词汇案例246"
   },
   {
     "id": "en-case-247",
@@ -8589,33 +9705,19 @@
     "description": "通过词汇掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "词汇"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过词汇掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过词汇掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "词汇案例247"
   },
   {
     "id": "en-case-248",
@@ -8623,33 +9725,19 @@
     "description": "通过写作掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过写作掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过写作掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "写作案例248"
   },
   {
     "id": "en-case-249",
@@ -8657,33 +9745,19 @@
     "description": "通过听力掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "听力"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过听力掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过听力掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "听力案例249"
   },
   {
     "id": "en-case-250",
@@ -8691,33 +9765,19 @@
     "description": "通过快速阅读掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "快速阅读"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过快速阅读掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过快速阅读掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "快速阅读案例250"
   },
   {
     "id": "en-case-251",
@@ -8725,33 +9785,19 @@
     "description": "通过翻译掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "翻译"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过翻译掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过翻译掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "翻译案例251"
   },
   {
     "id": "en-case-252",
@@ -8759,33 +9805,19 @@
     "description": "通过听力掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "听力"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过听力掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过听力掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "听力案例252"
   },
   {
     "id": "en-case-253",
@@ -8793,33 +9825,19 @@
     "description": "通过匹配掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "匹配"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过匹配掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过匹配掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "匹配案例253"
   },
   {
     "id": "en-case-254",
@@ -8827,33 +9845,19 @@
     "description": "通过听力掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "听力"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过听力掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过听力掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "听力案例254"
   },
   {
     "id": "en-case-255",
@@ -8861,33 +9865,19 @@
     "description": "通过阅读掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "阅读"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过阅读掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过阅读掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "阅读案例255"
   },
   {
     "id": "en-case-256",
@@ -8895,33 +9885,19 @@
     "description": "通过选词掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "选词"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过选词掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过选词掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "选词案例256"
   },
   {
     "id": "en-case-257",
@@ -8929,33 +9905,19 @@
     "description": "通过写作掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "写作"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过写作掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过写作掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "写作案例257"
   },
   {
     "id": "en-case-258",
@@ -8963,33 +9925,19 @@
     "description": "通过选词掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "选词"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过选词掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过选词掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "选词案例258"
   },
   {
     "id": "en-case-259",
@@ -8997,33 +9945,19 @@
     "description": "通过词汇掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "词汇"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过词汇掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过词汇掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "词汇案例259"
   },
   {
     "id": "en-case-260",
@@ -9031,32 +9965,18 @@
     "description": "通过快速阅读掌握CET4",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方法",
-        "description": "训练"
-      },
-      {
-        "order": 3,
-        "title": "练习",
-        "description": "实践"
-      },
-      {
-        "order": 4,
-        "title": "检查",
-        "description": "验证"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "快速阅读"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过快速阅读掌握CET4",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过快速阅读掌握CET4",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方法**: 训练\n3. **练习**: 实践\n4. **检查**: 验证",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "快速阅读案例260"
   }
 ]
