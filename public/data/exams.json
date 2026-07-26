@@ -1,31 +1,62 @@
 [
   {
     "id": "mod-english-cet4-exam-1",
-    "slug": "final-exam",
-    "title": "英语四级备考 核心期末综合自测",
-    "summary": "全面检验您对 英语四级备考 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "英语四级 基础入门测验",
+    "summary": "覆盖高频词汇辨析、基础语法和考试常识，适合备考初期摸底自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-english-cet4-q-1",
-      "mod-english-cet4-q-2",
       "mod-english-cet4-q-3",
       "mod-english-cet4-q-4",
       "mod-english-cet4-q-5",
-      "mod-english-cet4-q-6"
+      "mod-english-cet4-q-15",
+      "mod-english-cet4-q-17",
+      "mod-english-cet4-q-19",
+      "mod-english-cet4-q-20"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-english-cet4-exam-2",
-    "slug": "basic-exam",
-    "title": "英语四级备考 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "英语四级 进阶强化测验",
+    "summary": "聚焦倒装、虚拟语气、非谓语动词等核心语法与阅读听力翻译技巧的强化训练。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-english-cet4-q-1",
       "mod-english-cet4-q-2",
-      "mod-english-cet4-q-3"
+      "mod-english-cet4-q-6",
+      "mod-english-cet4-q-7",
+      "mod-english-cet4-q-8",
+      "mod-english-cet4-q-9",
+      "mod-english-cet4-q-10",
+      "mod-english-cet4-q-11",
+      "mod-english-cet4-q-12",
+      "mod-english-cet4-q-14",
+      "mod-english-cet4-q-16"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-english-cet4-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "英语四级 综合模拟测验",
+    "summary": "综合考查词汇、语法、阅读干扰项识别与翻译写作能力，模拟真实备考水平检验。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-english-cet4-q-2",
+      "mod-english-cet4-q-7",
+      "mod-english-cet4-q-11",
+      "mod-english-cet4-q-13",
+      "mod-english-cet4-q-14",
+      "mod-english-cet4-q-16",
+      "mod-english-cet4-q-18",
+      "mod-english-cet4-q-21",
+      "mod-english-cet4-q-22",
+      "mod-english-cet4-q-23",
+      "mod-english-cet4-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

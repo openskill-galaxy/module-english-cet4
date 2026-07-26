@@ -1,218 +1,772 @@
 [
   {
     "id": "mod-english-cet4-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [英语四级备考] 的过程里，关于“英语四级备考 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "四级词汇题：The new policy will ______ all employees, regardless of their position in the company. 选择最合适的单词填空。",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "affect"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "effect"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "infect"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "defect"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“英语四级备考 环境依赖搭建与运行机制”的正确答案为 A。解析：在 英语四级备考 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "affect 是动词，意为“影响”，句中需要一个及物动词表示“新政策将影响所有员工”，故选 A。effect 通常作名词表示“效果、影响”（have an effect on），作动词时意为“实现、引起”（effect a change），不符合语境；infect 意为“感染”；defect 作名词意为“缺陷”，作动词意为“叛逃”。affect/effect 的词性辨析是四级高频考点。",
     "tags": [
-      "英语四级备考",
-      "基础考点"
+      "词汇",
+      "近形词辨析"
     ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "difficulty": "easy",
+    "chapter": "mod-english-cet4-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-english-cet4-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [英语四级备考] 的过程里，关于“英语四级备考 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "语法题：Not until the experiment was over ______ the significance of the data. 选择正确的选项。",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "did the researchers realize"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "the researchers realized"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "the researchers did realize"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "realized the researchers"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“英语四级备考 配置文件覆盖与属性解析”的正确答案为 A。解析：在 英语四级备考 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "Not until 位于句首时，主句必须使用部分倒装结构，即把助动词提到主语之前。原句正常语序为 The researchers did not realize the significance of the data until the experiment was over，倒装后为 Not until the experiment was over did the researchers realize...，故选 A。B、C 未倒装，D 是全部倒装（谓语整体提前），均不符合语法规则。倒装结构是四级选词填空和写作中的常考语法点。",
     "tags": [
-      "英语四级备考",
-      "基础考点"
+      "语法",
+      "倒装结构"
     ],
     "difficulty": "medium",
-    "chapter": "course-1",
+    "chapter": "mod-english-cet4-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-english-cet4-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [英语四级备考] 的过程里，关于“英语四级备考 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "四级考试题型常识：现行大学英语四级笔试中，写作部分（Part I Writing）在总分 710 分中所占的比例是多少？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "15%"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "20%"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "25%"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "35%"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“英语四级备考 API 接口规范与数据通信”的正确答案为 A。解析：在 英语四级备考 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "四级笔试各部分分值比例为：写作 15%、听力理解 35%、阅读理解 35%、翻译 15%，总分 710 分。因此写作占 15%（约 106.5 分），故选 A。B、C 为干扰项；D 的 35% 是听力或阅读的比例。熟悉分值结构有助于合理分配备考精力和考场时间。",
     "tags": [
-      "英语四级备考",
-      "基础考点"
+      "考试常识",
+      "备考策略"
     ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "difficulty": "easy",
+    "chapter": "mod-english-cet4-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-english-cet4-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [英语四级备考] 的过程里，关于“英语四级备考 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "词汇题：Despite repeated failures, she remained ______ about finding a solution to the problem. 选择最合适的单词。",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "optimistic"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "pessimistic"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "realistic"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "artistic"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“英语四级备考 核心控制器与数据校验机制”的正确答案为 A。解析：在 英语四级备考 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "Despite repeated failures（尽管屡次失败）与 remained 之后的形容词构成让步转折关系，句意应为“她仍然对找到解决方案保持乐观”，故选 optimistic（乐观的）。pessimistic（悲观的）与转折逻辑相反；realistic（现实的）语义不贴合“尽管失败仍然……”的让步语境；artistic（艺术的）完全无关。be optimistic about 是四级高频搭配。",
     "tags": [
-      "英语四级备考",
-      "基础考点"
+      "词汇",
+      "逻辑关系"
     ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "difficulty": "easy",
+    "chapter": "mod-english-cet4-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-english-cet4-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [英语四级备考] 的过程里，关于“英语四级备考 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "语法题：By the end of next month, the construction team ______ the new library. 选择正确的时态形式。",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "will have completed"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "has completed"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "will complete"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "had completed"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“英语四级备考 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 英语四级备考 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "By the end of next month（到下个月底为止）是将来完成时的典型时间标志，表示动作在将来某一时间点之前完成，应使用 will have done 结构，故选 A。B 现在完成时与将来时间矛盾；C 一般将来时不能体现“到某时间点之前已完成”的含义；D 过去完成时用于过去的过去。by + 将来时间点搭配将来完成时是四级语法高频考点。",
     "tags": [
-      "英语四级备考",
-      "基础考点"
+      "语法",
+      "时态"
     ],
-    "difficulty": "medium",
-    "chapter": "course-3",
+    "difficulty": "easy",
+    "chapter": "mod-english-cet4-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-english-cet4-q-6",
-    "slug": "question-course-3-7",
+    "slug": "question-6",
     "type": "single",
-    "stem": "在学习 [英语四级备考] 的过程里，关于“英语四级备考 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "stem": "阅读技巧题：在四级仔细阅读中遇到题目 “The word 'it' in Line 3 refers to ______”，最有效的解题方法是什么？",
     "options": [
       {
         "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
+        "text": "回到原文该代词出现的位置，在其前文中寻找逻辑和语法上都能指代的名词"
       },
       {
         "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
+        "text": "直接选择选项中在文章里出现次数最多的名词"
       },
       {
         "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
+        "text": "根据全文主旨大意推测，不必回到原文定位"
       },
       {
         "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
+        "text": "选择距离该代词最远的名词，因为指代关系通常跨段落"
       }
     ],
     "answer": [
-      "0"
+      "A"
     ],
-    "explanation": "关于“英语四级备考 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 英语四级备考 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
+    "explanation": "代词指代题必须回文定位：代词的指代对象一般出现在其前文（就近原则优先），且需要在单复数、语义逻辑上与代词一致，将候选名词代入原句验证是否通顺即可确定答案，故选 A。B 出现频率高的词往往是主题词而非指代对象；C 不定位就作答容易被主旨干扰；D 与就近原则相反。这是仔细阅读细节题的基本功。",
     "tags": [
-      "英语四级备考",
-      "基础考点"
+      "阅读理解",
+      "解题技巧"
     ],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-english-cet4-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-english-cet4-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "翻译技巧题：将“中国的茶文化已有数千年的历史”译成英文，以下译文最地道、语法最准确的是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "Chinese tea culture has a history of several thousand years."
+      },
+      {
+        "key": "B",
+        "text": "Chinese tea culture has several thousand years history."
+      },
+      {
+        "key": "C",
+        "text": "The tea culture of China have a history of thousands year."
+      },
+      {
+        "key": "D",
+        "text": "China's tea culture is several thousand years."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "“有……年的历史”的标准译法是 have/has a history of + 时间段，A 中 several thousand years 数词修饰正确（thousand 不加 s），主谓一致无误，故选 A。B 缺少 of 结构且名词所有格使用不当（应为 several thousand years' history）；C 主谓不一致（culture 单数应用 has）且 thousands year 形式错误；D 缺少 history 一词，直接说 is several thousand years 语义残缺。历史文化类表达是四级段落翻译的高频话题。",
+    "tags": [
+      "翻译",
+      "汉译英"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "词汇题：The government has taken effective measures to ______ the spread of the disease. 选择最合适的单词。",
+    "options": [
+      {
+        "key": "A",
+        "text": "curb"
+      },
+      {
+        "key": "B",
+        "text": "cure"
+      },
+      {
+        "key": "C",
+        "text": "curl"
+      },
+      {
+        "key": "D",
+        "text": "cultivate"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "curb 意为“控制、抑制”，curb the spread of...（遏制……的传播）是新闻和四级阅读中的高频搭配，句意“政府已采取有效措施遏制疾病传播”通顺，故选 A。cure 意为“治愈”，宾语通常是疾病或病人而不是 spread（传播）；curl 意为“卷曲”；cultivate 意为“培养、耕作”，与语境相悖。",
+    "tags": [
+      "词汇",
+      "动词搭配"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-english-cet4-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "语法题：______ from the top of the hill, the village looks like a beautiful painting. 选择正确的非谓语动词形式。",
+    "options": [
+      {
+        "key": "A",
+        "text": "Seen"
+      },
+      {
+        "key": "B",
+        "text": "Seeing"
+      },
+      {
+        "key": "C",
+        "text": "To see"
+      },
+      {
+        "key": "D",
+        "text": "Having seen"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "非谓语动词作状语时，其逻辑主语是主句主语 the village。村庄是“被看”的对象，与 see 构成被动关系，应使用过去分词 Seen（= When it is seen from...），故选 A。B Seeing 表示主动，意味着村庄自己在看，逻辑错误；C To see 表目的，不合句意；D Having seen 是现在分词完成式，同样表主动且强调先后顺序，不符合。分词作状语的主被动判断是四级语法经典考点。",
+    "tags": [
+      "语法",
+      "非谓语动词"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "听力技巧题：在四级听力长对话（Long Conversation）部分，以下哪种做法最有助于提高正确率？",
+    "options": [
+      {
+        "key": "A",
+        "text": "利用播放题目说明（Directions）的时间快速预读选项，预测对话话题和提问方向"
+      },
+      {
+        "key": "B",
+        "text": "听录音时逐词记录整段对话内容，听完后再看题目"
+      },
+      {
+        "key": "C",
+        "text": "只听对话开头一句，其余时间用于涂答题卡"
+      },
+      {
+        "key": "D",
+        "text": "遇到听不懂的单词立刻停下来回想词义，直到想起来为止"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "四级听力题目不印在试卷上但选项可见，利用 Directions 播放时间预读选项，可以推断对话场景（如租房、选课、求职）和考查点，带着预期去听能显著提高抓取关键信息的效率，故选 A。B 逐词记录会顾此失彼，听力考查理解而非听写；C 关键信息分布在整段对话中，只听开头会遗漏大量考点；D 纠结单个生词会导致错过后续内容，正确做法是跳过生词继续听。",
+    "tags": [
+      "听力",
+      "应试技巧"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-english-cet4-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "词汇题：His success can be ______ to years of hard work and persistence. 选择最合适的单词。",
+    "options": [
+      {
+        "key": "A",
+        "text": "attributed"
+      },
+      {
+        "key": "B",
+        "text": "contributed"
+      },
+      {
+        "key": "C",
+        "text": "distributed"
+      },
+      {
+        "key": "D",
+        "text": "tributed"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "be attributed to 意为“被归因于”，句意“他的成功可以归因于多年的努力和坚持”通顺，故选 A。contribute to 意为“促成、贡献于”，主动语态时可以说 Hard work contributed to his success，但 his success can be contributed to... 的被动表达不成立；distribute 意为“分发、分配”；tribute 是名词“致敬、贡品”，没有 tributed 这个动词形式。attribute/contribute/distribute 近形词辨析是四级词汇高频考点。",
+    "tags": [
+      "词汇",
+      "近形词辨析"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "语法题：The manager insisted that the report ______ before Friday. 选择正确的选项。",
+    "options": [
+      {
+        "key": "A",
+        "text": "be submitted"
+      },
+      {
+        "key": "B",
+        "text": "was submitted"
+      },
+      {
+        "key": "C",
+        "text": "is submitted"
+      },
+      {
+        "key": "D",
+        "text": "would submit"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "insist 表示“坚持要求（某事应被做）”时，其后的宾语从句要用虚拟语气，即 (should +) 动词原形；report 与 submit 是被动关系，故用 (should) be submitted，选 A。B、C 是陈述语气，只有当 insist 表示“坚持认为（事实）”时才可用；D would submit 是主动语态且不符合虚拟语气规则。insist/suggest/demand/require 等词后接虚拟语气是四级语法必考点。",
+    "tags": [
+      "语法",
+      "虚拟语气"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "长篇阅读（匹配题）技巧：四级 Section B 信息匹配题要求将 10 个句子与原文段落配对。以下解题策略中最高效的是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "先读题目句子并圈出数字、大写专有名词等定位词，再回原文扫读寻找同义改写"
+      },
+      {
+        "key": "B",
+        "text": "先把原文从头到尾精读一遍并做笔记，再逐题匹配"
+      },
+      {
+        "key": "C",
+        "text": "按段落顺序依次为每段寻找对应题目，因为题目顺序与段落顺序一致"
+      },
+      {
+        "key": "D",
+        "text": "只看每段第一句话，题目中出现相同单词即可确定匹配"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "信息匹配题的核心策略是“带着定位词扫读”：数字、专有名词、特殊概念词在原文中不易被改写，是最可靠的定位线索；同时要警惕题目对原文的同义替换（paraphrase），故选 A。B 全文精读耗时过长，该题型建议控制在 15 分钟以内；C 匹配题题目顺序与段落顺序不一致，这是它与仔细阅读的重要区别；D 原词重现反而常是干扰陷阱，且关键信息未必在段首。",
+    "tags": [
+      "阅读理解",
+      "信息匹配"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-english-cet4-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "写作题：四级作文若要表达“越来越多的大学生开始重视心理健康”，以下句子表达最准确且符合书面语规范的是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "An increasing number of college students are attaching importance to mental health."
+      },
+      {
+        "key": "B",
+        "text": "More and more college students is paying attention on mental health."
+      },
+      {
+        "key": "C",
+        "text": "College students more and more start to care mental health."
+      },
+      {
+        "key": "D",
+        "text": "The number of college students are increasing to value mental health."
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "explanation": "A 使用 an increasing number of + 复数名词（谓语用复数）和 attach importance to（重视）两个书面语高分表达，语法与搭配均正确。B 主谓不一致（students 应配 are），且 pay attention 的正确搭配是 to 而非 on；C 语序混乱，care 表示“在意”需接 about；D the number of 作主语时谓语应用单数 is，且 increasing to value 结构逻辑不通。用 an increasing number of 替换 more and more 是写作提分的常用技巧。",
+    "tags": [
+      "写作",
+      "高分句型"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "以下哪些英文表达可以在四级写作中用来引出他人观点或表达个人立场？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "From my perspective, ..."
+      },
+      {
+        "key": "B",
+        "text": "Some people hold the view that ..."
+      },
+      {
+        "key": "C",
+        "text": "As far as I am concerned, ..."
+      },
+      {
+        "key": "D",
+        "text": "Long time no see, ..."
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "A（在我看来）、C（就我而言）用于表达个人立场，B（有些人持有这样的观点）用于引出他人观点，三者都是四级议论文的规范书面表达。D “Long time no see”（好久不见）是口语寒暄用语，不能用于议论文写作。积累观点引出句式可以提升作文的结构感和语言多样性。",
+    "tags": [
+      "写作",
+      "常用句式"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-english-cet4-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "关于四级段落翻译（汉译英）的应对技巧，以下说法正确的有哪些？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "遇到不会翻译的难词，可以用意思相近的简单词替换或解释性翻译，避免留白"
+      },
+      {
+        "key": "B",
+        "text": "汉语多短句、多主动，译成英文时可适当合并句子并使用被动语态或从句"
+      },
+      {
+        "key": "C",
+        "text": "翻译评分只看词汇难度，语法错误不影响得分"
+      },
+      {
+        "key": "D",
+        "text": "翻译内容多涉及中国历史、文化、经济和社会发展，平时应积累相关话题词汇"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "A 正确，翻译评分看整体达意，用 simple word 替换比空着不译得分更高；B 正确，汉英句法差异要求译者进行句式重组，如合并流水短句、化主动为被动；D 正确，四级翻译大纲明确话题范围为中国的历史、文化、经济与社会发展。C 错误，评分标准同时考察语言准确性（含语法）和译文完整流畅度，语法错误会直接扣分。",
+    "tags": [
+      "翻译",
+      "应试技巧"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "下列关于英语构词法的说法中，正确的有哪些？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "前缀 un-、in-、dis- 通常表示否定含义，如 unfair、incorrect、dishonest"
+      },
+      {
+        "key": "B",
+        "text": "后缀 -tion、-ment、-ness 通常构成名词，如 education、development、happiness"
+      },
+      {
+        "key": "C",
+        "text": "后缀 -ful 只能加在动词后面构成副词"
+      },
+      {
+        "key": "D",
+        "text": "前缀 re- 常表示“再次、重新”，如 rebuild、reconsider"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "A 正确，un-/in-/dis- 是三个最常见的否定前缀；B 正确，-tion/-ment/-ness 都是典型的名词后缀；D 正确，re- 表示“再、重新”。C 错误，-ful 是形容词后缀（如 useful、careful、beautiful），通常加在名词后构成形容词而非副词，副词后缀是 -ly。掌握构词法可以在阅读中推测生词词义、扩大词汇量，是四级词汇学习的重要方法。",
+    "tags": [
+      "词汇",
+      "构词法"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-english-cet4-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "在四级仔细阅读中，以下哪些选项特征通常提示该选项是错误（干扰）选项？（多选）",
+    "options": [
+      {
+        "key": "A",
+        "text": "选项中出现 all、never、only 等过于绝对化的表述，而原文语气有所保留"
+      },
+      {
+        "key": "B",
+        "text": "选项照抄原文个别词句，但整体含义与原文相悖或答非所问"
+      },
+      {
+        "key": "C",
+        "text": "选项是原文相关句子的同义改写（paraphrase）"
+      },
+      {
+        "key": "D",
+        "text": "选项内容本身符合常识，但在原文中完全没有提及"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
+    "explanation": "A 是“绝对化陷阱”：原文常用 may、often、some 等留有余地的表达，选项改成绝对化说法即错误；B 是“原词重现陷阱”：抄原文词汇但偷换概念；D 是“常识干扰陷阱”：正确答案必须依据原文而非生活常识，无中生有即错。C 恰恰相反——四级阅读正确答案的典型特征就是对原文的同义改写，因此 C 不是干扰项特征。识别这三类陷阱是提高阅读正确率的关键。",
+    "tags": [
+      "阅读理解",
+      "干扰项识别"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-english-cet4-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-english-cet4-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "判断：在句子 “I look forward to hearing from you soon.” 中，to 是介词，因此后面必须接动名词 hearing 而不能接动词原形 hear。",
+    "options": [],
+    "answer": [
+      "T"
+    ],
+    "explanation": "正确。look forward to 中的 to 是介词而非不定式符号，介词后必须接名词或动名词，故用 hearing。类似结构还有 be used to doing（习惯于）、devote oneself to doing、object to doing、pay attention to doing 等，都是四级常考的“to 作介词”固定搭配，极易与不定式 to do 混淆。",
+    "tags": [
+      "语法",
+      "固定搭配"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-english-cet4-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-english-cet4-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "判断：四级听力播放过程中，考生可以先把答案标记在试题册上，等听力全部结束后再统一涂答题卡，监考老师会预留专门的涂卡时间。",
+    "options": [],
+    "answer": [
+      "F"
+    ],
+    "explanation": "错误。按照四级考试规定，听力录音播放结束后会立即收回听力部分答题卡（答题卡 1），不单独预留涂卡时间。因此考生必须边听边在答题卡上作答（或利用每题间隔快速涂卡），把答案全部留到最后再涂是四级考场上最常见的失分事故之一。",
+    "tags": [
+      "听力",
+      "考试常识"
+    ],
+    "difficulty": "easy",
+    "chapter": "mod-english-cet4-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-english-cet4-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "判断：单词 economic 和 economical 含义相同，可以互换使用，例如 “economic growth” 也可以写成 “economical growth”。",
+    "options": [],
+    "answer": [
+      "F"
+    ],
+    "explanation": "错误。economic 意为“经济的、与经济相关的”，用于 economic growth（经济增长）、economic policy（经济政策）等；economical 意为“节约的、省钱的”，如 an economical car（省油的汽车）。两者词义不同不能互换，economic growth 不能说成 economical growth。这类 -ic/-ical 近形形容词辨析（如 historic/historical、classic/classical）是四级词汇常考点。",
+    "tags": [
+      "词汇",
+      "近形词辨析"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-english-cet4-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "判断：在定语从句 “The house whose windows face south is mine.” 中，关系代词 whose 用法正确，因为 whose 既可以指人也可以指物。",
+    "options": [],
+    "answer": [
+      "T"
+    ],
+    "explanation": "正确。whose 是关系代词的所有格形式，先行词既可以是人（the man whose son...）也可以是物（the house whose windows...），指物时相当于 of which 结构（the house the windows of which face south）。很多考生误以为 whose 只能指人，这是四级语法辨析中的常见误区。",
+    "tags": [
+      "语法",
+      "定语从句"
+    ],
+    "difficulty": "medium",
+    "chapter": "mod-english-cet4-c-1",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-english-cet4-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "简答：四级阅读和写作中经常需要识别文章的逻辑关系。请写出英语中表示“转折/对比”关系的常用连接词（写出一个即可，英文单词或词组）。",
+    "options": [],
+    "answer": [
+      "however|but|yet|nevertheless|nonetheless|whereas|while|on the contrary|in contrast|by contrast|on the other hand|although|though|despite|in spite of|conversely"
+    ],
+    "explanation": "表示转折/对比的常用连接词包括：however（然而）、but、yet、nevertheless/nonetheless（尽管如此）、whereas/while（而、然而）、on the contrary（正相反）、in contrast/by contrast（相比之下）、on the other hand（另一方面）、although/though（虽然）、despite/in spite of（尽管）等。转折词之后往往是作者真正的观点和阅读题的出题点，写作中恰当使用逻辑连接词也是评分标准中“连贯性”的重要体现。",
+    "tags": [
+      "阅读理解",
+      "逻辑连接词"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-english-cet4-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-english-cet4-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "简答：短语动词 “put off” 最常见的含义是什么？请用中文回答（例句：The meeting has been put off until next week.）。",
+    "options": [],
+    "answer": [
+      "推迟|延期|拖延|延迟|推后"
+    ],
+    "explanation": "put off 意为“推迟、延期”，相当于 postpone 或 delay，例句意为“会议已推迟到下周”。put 系列短语动词是四级高频考点，还需掌握：put up with（忍受）、put out（扑灭）、put forward（提出）、put away（收起来）、put on（穿上）。短语动词在听力对话和选词填空中出现频率很高，建议成组记忆。",
+    "tags": [
+      "词汇",
+      "短语动词"
+    ],
+    "difficulty": "hard",
+    "chapter": "mod-english-cet4-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
   }
 ]
